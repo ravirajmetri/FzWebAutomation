@@ -2326,3 +2326,15 @@
 2019-05-29 18:21:19,272 [main] INFO Fieldez - Line item saved
 2019-05-29 18:21:20,369 [main] INFO Fieldez - Clicked on Calendar
 2019-05-29 18:21:23,500 [main] INFO Fieldez - Selected Date
+2019-06-04 23:15:45,883 [main] INFO Fieldez - Advanced Link is Clicked
+2019-06-04 23:15:48,183 [main] INFO Fieldez - Expense Link is clicked
+2019-06-04 23:15:49,846 [main] INFO Fieldez - Create Expense is Clicked
+2019-06-04 23:15:49,865 [main] INFO Fieldez - T001-Pass
+2019-06-04 23:15:53,591 [main] INFO Fieldez - T002-Pass
+2019-06-04 23:15:56,026 [main] INFO Fieldez - T003-Pass
+2019-06-04 23:15:56,080 [main] INFO Fieldez - Save Line Item Button is disabled
+2019-06-04 23:15:56,080 [main] INFO Fieldez - TC004-----> Pass
+2019-06-04 23:15:56,966 [main] INFO Fieldez - TC - 007Save Line Item Button is enabled
+2019-06-04 23:15:57,225 [main] INFO Fieldez - Line item saved
+2019-06-04 23:15:58,470 [main] INFO Fieldez - Clicked on Calendar
+2019-06-04 23:16:01,787 [main] INFO Fieldez - Selected Date

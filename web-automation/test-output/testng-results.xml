@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="7" total="9" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="com.fieldez.webautomation" duration-ms="41904" started-at="2019-05-29T12:50:48Z" finished-at="2019-05-29T12:51:30Z">
+  <suite name="com.fieldez.webautomation" duration-ms="58867" started-at="2019-06-04T17:45:10Z" finished-at="2019-06-04T17:46:08Z">
     <groups>
     </groups>
-    <test name="TC_Create_Expense" duration-ms="41904" started-at="2019-05-29T12:50:48Z" finished-at="2019-05-29T12:51:30Z">
+    <test name="TC_Create_Expense" duration-ms="58867" started-at="2019-06-04T17:45:10Z" finished-at="2019-06-04T17:46:08Z">
       <class name="com.fieldez.testcases.TC_Create_Expense">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="setup" is-config="true" duration-ms="11937" started-at="2019-05-29T12:50:48Z" finished-at="2019-05-29T12:51:00Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="setup" is-config="true" duration-ms="21332" started-at="2019-06-04T17:45:10Z" finished-at="2019-06-04T17:45:31Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="LoginTest" duration-ms="8832" started-at="2019-05-29T12:51:01Z" data-provider="DatabaseLogin" finished-at="2019-05-29T12:51:10Z">
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="LoginTest" duration-ms="11032" started-at="2019-06-04T17:45:34Z" data-provider="DatabaseLogin" finished-at="2019-06-04T17:45:45Z">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="CreateExpenseTest(java.lang.String)[pri:2, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="CreateExpenseTest" duration-ms="19213" started-at="2019-05-29T12:51:10Z" data-provider="ExpenseData" finished-at="2019-05-29T12:51:29Z">
+        <test-method status="PASS" signature="CreateExpenseTest(java.lang.String)[pri:2, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="CreateExpenseTest" duration-ms="22468" started-at="2019-06-04T17:45:45Z" data-provider="ExpenseData" finished-at="2019-06-04T17:46:08Z">
           <params>
             <param index="0">
               <value>
@@ -45,7 +45,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateExpenseTest -->
-        <test-method status="PASS" signature="OpenTestResults()[pri:0, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="OpenTestResults" is-config="true" duration-ms="805" started-at="2019-05-29T12:51:29Z" finished-at="2019-05-29T12:51:30Z">
+        <test-method status="PASS" signature="OpenTestResults()[pri:0, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="OpenTestResults" is-config="true" duration-ms="777" started-at="2019-06-04T17:46:08Z" finished-at="2019-06-04T17:46:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenTestResults -->
