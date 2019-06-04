@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [com.fieldez.webautomation]">
+  <listeners>
+    <listener class-name="com.fieldez.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="TC_Create_Expense(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.fieldez.testcases.TC_Create_Expense">
+        <methods>
+          <include name="CreateExpenseTest" invocation-numbers="0"/>
+          <include name="OpenTestResults"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.fieldez.testcases.TC_Create_Expense -->
+    </classes>
+  </test> <!-- TC_Create_Expense(failed) -->
+</suite> <!-- Failed suite [com.fieldez.webautomation] -->

@@ -1,0 +1,2328 @@
+2019-01-13 21:02:02,478 - Fieldez -INFO - URL is launched
+2019-01-13 21:02:02,681 - Fieldez -INFO - Entered the username
+2019-01-13 21:02:02,802 - Fieldez -INFO - Entered the password
+2019-01-13 21:02:10,161 - Fieldez -INFO - Logging into application
+2019-01-13 22:16:49,727 - Fieldez -INFO - URL is launched
+2019-01-13 22:16:50,040 - Fieldez -INFO - Entered the username
+2019-01-13 22:16:50,135 - Fieldez -INFO - Entered the password
+2019-01-13 22:16:51,079 - Fieldez -INFO - Logging into application
+2019-01-13 22:18:15,634 - Fieldez -INFO - URL is launched
+2019-01-13 22:18:15,855 - Fieldez -INFO - Entered the username
+2019-01-13 22:18:15,954 - Fieldez -INFO - Entered the password
+2019-01-13 22:18:16,903 - Fieldez -INFO - Logging into application
+2019-01-13 22:18:16,920 - Fieldez -ERROR - Login Test Case Failed
+2019-01-13 22:19:03,512 - Fieldez -INFO - URL is launched
+2019-01-13 22:19:03,734 - Fieldez -INFO - Entered the username
+2019-01-13 22:19:03,827 - Fieldez -INFO - Entered the password
+2019-01-13 22:19:04,713 - Fieldez -INFO - Logging into application
+2019-01-13 22:24:22,945 - Fieldez -INFO - URL is launched
+2019-01-13 22:24:23,158 - Fieldez -INFO - Entered the username
+2019-01-13 22:24:23,253 - Fieldez -INFO - Entered the password
+2019-01-13 22:24:24,634 - Fieldez -INFO - Logging into application
+2019-01-13 22:24:24,652 - Fieldez -ERROR - Login Test Case Failed
+2019-01-13 22:25:12,354 - Fieldez -INFO - URL is launched
+2019-01-13 22:25:12,555 - Fieldez -INFO - Entered the username
+2019-01-13 22:25:12,649 - Fieldez -INFO - Entered the password
+2019-01-13 22:25:13,802 - Fieldez -INFO - Logging into application
+2019-01-13 22:25:13,821 - Fieldez -ERROR - Login Test Case Failed
+2019-01-13 22:46:23,588 - Fieldez -INFO - URL is launched
+2019-01-13 22:46:23,791 - Fieldez -INFO - Entered the username
+2019-01-13 22:46:23,884 - Fieldez -INFO - Entered the password
+2019-01-13 22:46:24,802 - Fieldez -INFO - Logging into application
+2019-01-13 22:48:03,488 - Fieldez -INFO - URL is launched
+2019-01-13 22:48:03,708 - Fieldez -INFO - Entered the username
+2019-01-13 22:48:03,832 - Fieldez -INFO - Entered the password
+2019-01-13 22:48:04,669 - Fieldez -INFO - Logging into application
+2019-01-13 22:55:55,940 - Fieldez -INFO - URL is launched
+2019-01-13 22:55:56,169 - Fieldez -INFO - Entered the username
+2019-01-13 22:55:56,303 - Fieldez -INFO - Entered the password
+2019-01-13 22:55:57,201 - Fieldez -INFO - Logging into application
+2019-01-13 22:59:19,574 - Fieldez -INFO - URL is launched
+2019-01-13 22:59:19,780 - Fieldez -INFO - Entered the username
+2019-01-13 22:59:19,883 - Fieldez -INFO - Entered the password
+2019-01-13 22:59:27,332 - Fieldez -INFO - Logging into application
+2019-01-13 23:34:23,084 - Fieldez -INFO - URL is launched
+2019-01-13 23:34:23,288 - Fieldez -INFO - Entered the username
+2019-01-13 23:34:23,447 - Fieldez -INFO - Entered the password
+2019-01-13 23:34:32,332 - Fieldez -INFO - Logging into application
+2019-01-13 23:35:27,994 - Fieldez -INFO - URL is launched
+2019-01-13 23:35:28,134 - Fieldez -INFO - Entered the username
+2019-01-13 23:35:28,235 - Fieldez -INFO - Entered the password
+2019-01-13 23:35:37,221 - Fieldez -INFO - Logging into application
+2019-01-14 00:07:40,839 - Fieldez -INFO - URL is launched
+2019-01-14 00:07:41,161 - Fieldez -INFO - Entered the username
+2019-01-14 00:07:41,251 - Fieldez -INFO - Entered the password
+2019-01-14 00:07:49,496 - Fieldez -INFO - Logging into application
+2019-01-14 00:23:49,903 - Fieldez -INFO - URL is launched
+2019-01-14 00:23:50,154 - Fieldez -INFO - Entered the username
+2019-01-14 00:23:50,226 - Fieldez -INFO - Entered the password
+2019-01-14 00:23:58,584 - Fieldez -INFO - Logging into application
+2019-01-14 00:28:43,649 - Fieldez -INFO - URL is launched
+2019-01-14 00:28:43,938 - Fieldez -INFO - Entered the username
+2019-01-14 00:28:44,015 - Fieldez -INFO - Entered the password
+2019-01-14 00:28:56,046 - Fieldez -INFO - Logging into application
+2019-01-14 02:21:27,923 - Fieldez -INFO - URL is launched
+2019-01-14 02:21:28,616 - Fieldez -INFO - Entered the username
+2019-01-14 02:21:29,157 - Fieldez -INFO - Entered the password
+2019-01-14 02:21:39,299 - Fieldez -INFO - Logging into application
+2019-01-14 02:49:53,421 - Fieldez -INFO - URL is launched
+2019-01-14 02:49:53,638 - Fieldez -INFO - Entered the username
+2019-01-14 02:49:53,750 - Fieldez -INFO - Entered the password
+2019-01-14 02:50:00,505 - Fieldez -INFO - Logging into application
+2019-01-14 02:51:24,849 - Fieldez -INFO - URL is launched
+2019-01-14 02:51:25,407 - Fieldez -INFO - Entered the username
+2019-01-14 02:51:25,598 - Fieldez -INFO - Entered the password
+2019-01-14 02:51:33,563 - Fieldez -INFO - Logging into application
+2019-01-14 02:55:38,047 - Fieldez -INFO - URL is launched
+2019-01-14 02:55:38,253 - Fieldez -INFO - Entered the username
+2019-01-14 02:55:38,362 - Fieldez -INFO - Entered the password
+2019-01-14 02:55:45,327 - Fieldez -INFO - Logging into application
+2019-01-27 00:04:24,809 - Fieldez -INFO - URL is launched
+2019-01-27 00:04:25,081 - Fieldez -INFO - Entered the username
+2019-01-27 00:04:25,175 - Fieldez -INFO - Entered the password
+2019-01-27 00:04:35,385 - Fieldez -INFO - Logging into application
+2019-01-27 00:55:24,146 - Fieldez -INFO - URL is launched
+2019-01-27 00:55:24,315 - Fieldez -INFO - Entered the username
+2019-01-27 00:55:24,388 - Fieldez -INFO - Entered the password
+2019-01-27 00:55:35,317 - Fieldez -INFO - Logging into application
+2019-01-27 01:56:38,719 - Fieldez -INFO - Welcome page
+2019-01-27 01:56:38,933 - Fieldez -INFO - Welcome page
+2019-01-27 01:56:38,952 - Fieldez -INFO - URL is launched
+2019-01-27 01:56:39,137 - Fieldez -INFO - Entered the username
+2019-01-27 01:56:39,222 - Fieldez -INFO - Entered the password
+2019-01-27 01:56:50,234 - Fieldez -INFO - Logging into application
+2019-01-27 02:00:24,887 - Fieldez -INFO - Welcome page
+2019-01-27 02:00:25,034 - Fieldez -INFO - Welcome page
+2019-01-27 02:00:25,062 - Fieldez -INFO - URL is launched
+2019-01-27 02:00:25,234 - Fieldez -INFO - Entered the username
+2019-01-27 02:00:25,303 - Fieldez -INFO - Entered the password
+2019-01-27 02:00:37,125 - Fieldez -INFO - Logging into application
+2019-01-27 02:01:36,746 - Fieldez -INFO - Welcome page
+2019-01-27 02:01:36,845 - Fieldez -INFO - Welcome page
+2019-01-27 02:01:36,868 - Fieldez -INFO - URL is launched
+2019-01-27 02:01:36,999 - Fieldez -INFO - Entered the username
+2019-01-27 02:01:37,099 - Fieldez -INFO - Entered the password
+2019-01-27 02:01:47,055 - Fieldez -INFO - Logging into application
+2019-01-27 02:03:29,502 - Fieldez -INFO - Welcome page
+2019-01-27 02:03:29,629 - Fieldez -INFO - Welcome page
+2019-01-27 02:41:53,592 - Fieldez -INFO - URL is launched
+2019-01-27 02:41:53,772 - Fieldez -INFO - Entered the username
+2019-01-27 02:41:53,917 - Fieldez -INFO - Entered the password
+2019-01-27 02:41:54,785 - Fieldez -INFO - Logging into application
+2019-01-27 02:46:19,968 - Fieldez -INFO - URL is launched
+2019-01-27 02:46:20,190 - Fieldez -INFO - Entered the username
+2019-01-27 02:46:20,239 - Fieldez -INFO - Entered the password
+2019-01-27 02:46:21,096 - Fieldez -INFO - Logging into application
+2019-01-27 03:03:27,968 - Fieldez -INFO - URL is launched
+2019-01-27 03:03:28,125 - Fieldez -INFO - Entered the username
+2019-01-27 03:03:28,190 - Fieldez -INFO - Entered the password
+2019-01-27 03:03:29,050 - Fieldez -INFO - Logging into application
+2019-01-27 03:12:02,040 - Fieldez -INFO - URL is launched
+2019-01-27 03:12:02,246 - Fieldez -INFO - Entered the username
+2019-01-27 03:12:02,377 - Fieldez -INFO - Entered the password
+2019-01-27 03:12:03,239 - Fieldez -INFO - Logging into application
+2019-01-27 03:13:59,101 - Fieldez -INFO - URL is launched
+2019-01-27 03:13:59,274 - Fieldez -INFO - Entered the username
+2019-01-27 03:13:59,333 - Fieldez -INFO - Entered the password
+2019-01-27 03:14:00,205 - Fieldez -INFO - Logging into application
+2019-01-27 03:15:11,515 - Fieldez -INFO - URL is launched
+2019-01-27 03:15:11,653 - Fieldez -INFO - Entered the username
+2019-01-27 03:15:11,708 - Fieldez -INFO - Entered the password
+2019-01-27 03:15:12,637 - Fieldez -INFO - Logging into application
+2019-01-27 03:19:19,320 - Fieldez -INFO - URL is launched
+2019-01-27 03:19:19,481 - Fieldez -INFO - Entered the username
+2019-01-27 03:19:19,534 - Fieldez -INFO - Entered the password
+2019-01-27 03:19:20,517 - Fieldez -INFO - Logging into application
+2019-01-27 03:19:20,724 - Fieldez -INFO - URL is launched
+2019-01-27 03:19:20,785 - Fieldez -INFO - Entered the username
+2019-01-27 03:19:20,843 - Fieldez -INFO - Entered the password
+2019-01-27 03:19:21,688 - Fieldez -INFO - Logging into application
+2019-01-27 03:20:45,413 - Fieldez -INFO - URL is launched
+2019-01-27 03:20:45,570 - Fieldez -INFO - Entered the username
+2019-01-27 03:20:45,649 - Fieldez -INFO - Entered the password
+2019-01-27 03:20:58,085 - Fieldez -INFO - Logging into application
+2019-01-27 03:20:58,131 - Fieldez -INFO - URL is launched
+2019-01-27 03:24:57,531 - Fieldez -INFO - URL is launched
+2019-01-27 03:24:57,689 - Fieldez -INFO - Entered the username
+2019-01-27 03:24:57,764 - Fieldez -INFO - Entered the password
+2019-01-27 03:24:58,682 - Fieldez -INFO - Logging into application
+2019-01-27 03:24:58,908 - Fieldez -INFO - URL is launched
+2019-01-27 03:24:58,979 - Fieldez -INFO - Entered the username
+2019-01-27 03:24:59,031 - Fieldez -INFO - Entered the password
+2019-01-27 03:24:59,830 - Fieldez -INFO - Logging into application
+2019-01-27 03:28:01,851 - Fieldez -INFO - URL is launched
+2019-01-27 03:28:01,999 - Fieldez -INFO - Entered the username
+2019-01-27 03:28:02,080 - Fieldez -INFO - Entered the password
+2019-01-27 03:28:02,985 - Fieldez -INFO - Logging into application
+2019-01-27 03:28:03,209 - Fieldez -INFO - URL is launched
+2019-01-27 03:28:03,269 - Fieldez -INFO - Entered the username
+2019-01-27 03:28:03,311 - Fieldez -INFO - Entered the password
+2019-01-27 03:28:04,183 - Fieldez -INFO - Logging into application
+2019-01-27 03:45:36,375 - Fieldez -INFO - URL is launched
+2019-01-27 03:45:36,540 - Fieldez -INFO - Entered the username
+2019-01-27 03:45:36,593 - Fieldez -INFO - Entered the password
+2019-01-27 03:45:37,456 - Fieldez -INFO - Logging into application
+2019-01-27 03:45:37,660 - Fieldez -INFO - URL is launched
+2019-01-27 03:45:37,723 - Fieldez -INFO - Entered the username
+2019-01-27 03:45:37,796 - Fieldez -INFO - Entered the password
+2019-01-27 03:45:48,990 - Fieldez -INFO - Logging into application
+2019-01-27 03:47:55,568 - Fieldez -INFO - URL is launched
+2019-01-27 03:47:55,731 - Fieldez -INFO - Entered the username
+2019-01-27 03:47:55,791 - Fieldez -INFO - Entered the password
+2019-01-27 03:47:56,749 - Fieldez -INFO - Logging into application
+2019-01-27 03:47:56,943 - Fieldez -INFO - URL is launched
+2019-01-27 03:47:57,003 - Fieldez -INFO - Entered the username
+2019-01-27 03:47:57,079 - Fieldez -INFO - Entered the password
+2019-01-27 03:48:07,910 - Fieldez -INFO - Logging into application
+2019-01-27 03:51:15,089 - Fieldez -INFO - URL is launched
+2019-01-27 03:51:15,258 - Fieldez -INFO - Entered the username
+2019-01-27 03:51:15,337 - Fieldez -INFO - Entered the password
+2019-01-27 03:51:16,182 - Fieldez -INFO - Logging into application
+2019-01-27 03:51:30,972 - Fieldez -INFO - URL is launched
+2019-01-27 03:51:31,122 - Fieldez -INFO - Entered the username
+2019-01-27 03:51:31,219 - Fieldez -INFO - Entered the password
+2019-01-27 03:51:42,073 - Fieldez -INFO - Logging into application
+2019-01-27 03:53:55,845 - Fieldez -INFO - URL is launched
+2019-01-27 03:53:56,014 - Fieldez -INFO - Entered the username
+2019-01-27 03:53:56,083 - Fieldez -INFO - Entered the password
+2019-01-27 03:53:56,954 - Fieldez -INFO - Logging into application
+2019-01-27 03:54:12,433 - Fieldez -INFO - URL is launched
+2019-01-27 03:54:12,560 - Fieldez -INFO - Entered the username
+2019-01-27 03:54:12,616 - Fieldez -INFO - Entered the password
+2019-01-27 03:54:24,089 - Fieldez -INFO - Logging into application
+2019-01-27 03:56:21,937 - Fieldez -INFO - URL is launched
+2019-01-27 03:56:22,095 - Fieldez -INFO - Entered the username
+2019-01-27 03:56:22,159 - Fieldez -INFO - Entered the password
+2019-01-27 03:56:23,044 - Fieldez -INFO - Logging into application
+2019-01-27 03:56:39,643 - Fieldez -INFO - URL is launched
+2019-01-27 03:56:39,762 - Fieldez -INFO - Entered the username
+2019-01-27 03:56:39,857 - Fieldez -INFO - Entered the password
+2019-01-27 03:56:40,720 - Fieldez -INFO - Logging into application
+2019-01-27 03:57:22,181 - Fieldez -INFO - URL is launched
+2019-01-27 03:57:22,343 - Fieldez -INFO - Entered the username
+2019-01-27 03:57:22,405 - Fieldez -INFO - Entered the password
+2019-01-27 03:57:23,267 - Fieldez -INFO - Logging into application
+2019-01-27 03:57:37,903 - Fieldez -INFO - URL is launched
+2019-01-27 03:57:38,042 - Fieldez -INFO - Entered the username
+2019-01-27 03:57:38,130 - Fieldez -INFO - Entered the password
+2019-01-27 03:57:48,942 - Fieldez -INFO - Logging into application
+2019-01-27 03:58:20,494 - Fieldez -INFO - URL is launched
+2019-01-27 03:58:20,665 - Fieldez -INFO - Entered the username
+2019-01-27 03:58:20,758 - Fieldez -INFO - Entered the password
+2019-01-27 03:58:21,673 - Fieldez -INFO - Logging into application
+2019-01-27 20:17:35,889 - Fieldez -INFO - URL is launched
+2019-01-27 20:17:36,274 - Fieldez -INFO - Entered the username
+2019-01-27 20:17:36,314 - Fieldez -INFO - Entered the password
+2019-01-27 20:17:37,655 - Fieldez -INFO - Logging into application
+2019-01-27 20:17:54,228 - Fieldez -INFO - URL is launched
+2019-01-27 20:17:54,376 - Fieldez -INFO - Entered the username
+2019-01-27 20:17:54,457 - Fieldez -INFO - Entered the password
+2019-01-27 20:18:09,157 - Fieldez -INFO - Logging into application
+2019-01-27 20:20:57,835 - Fieldez -INFO - URL is launched
+2019-01-27 20:20:57,994 - Fieldez -INFO - Entered the username
+2019-01-27 20:20:58,059 - Fieldez -INFO - Entered the password
+2019-01-27 20:20:59,205 - Fieldez -INFO - Logging into application
+2019-01-27 20:21:17,465 - Fieldez -INFO - URL is launched
+2019-01-27 20:21:17,595 - Fieldez -INFO - Entered the username
+2019-01-27 20:21:17,665 - Fieldez -INFO - Entered the password
+2019-01-27 20:21:33,214 - Fieldez -INFO - Logging into application
+2019-01-27 20:21:50,902 - Fieldez -INFO - URL is launched
+2019-01-27 20:21:51,026 - Fieldez -INFO - Entered the username
+2019-01-27 20:21:51,134 - Fieldez -INFO - Entered the password
+2019-01-27 20:22:03,020 - Fieldez -INFO - Logging into application
+2019-01-27 20:25:28,858 - Fieldez -INFO - URL is launched
+2019-01-27 20:25:29,012 - Fieldez -INFO - Entered the username
+2019-01-27 20:25:29,084 - Fieldez -INFO - Entered the password
+2019-01-27 20:25:30,115 - Fieldez -INFO - Logging into application
+2019-01-27 20:25:46,647 - Fieldez -INFO - URL is launched
+2019-01-27 20:25:46,774 - Fieldez -INFO - Entered the username
+2019-01-27 20:25:46,859 - Fieldez -INFO - Entered the password
+2019-01-27 20:26:01,767 - Fieldez -INFO - Logging into application
+2019-01-27 20:26:19,161 - Fieldez -INFO - URL is launched
+2019-01-27 20:26:19,287 - Fieldez -INFO - Entered the username
+2019-01-27 20:26:19,390 - Fieldez -INFO - Entered the password
+2019-01-27 20:26:29,492 - Fieldez -INFO - Logging into application
+2019-01-27 20:29:53,072 - Fieldez -INFO - URL is launched
+2019-01-27 20:29:53,230 - Fieldez -INFO - Entered the username
+2019-01-27 20:29:53,328 - Fieldez -INFO - Entered the password
+2019-01-27 20:29:58,901 - Fieldez -INFO - Logging into application
+2019-01-27 20:34:42,385 - Fieldez -INFO - URL is launched
+2019-01-27 20:34:42,549 - Fieldez -INFO - Entered the username
+2019-01-27 20:34:42,608 - Fieldez -INFO - Entered the password
+2019-01-27 20:34:43,665 - Fieldez -INFO - Logging into application
+2019-01-27 20:34:59,660 - Fieldez -INFO - URL is launched
+2019-01-27 20:34:59,774 - Fieldez -INFO - Entered the username
+2019-01-27 20:34:59,870 - Fieldez -INFO - Entered the password
+2019-01-27 20:35:15,510 - Fieldez -INFO - Logging into application
+2019-01-27 20:41:51,743 - Fieldez -INFO - URL is launched
+2019-01-27 20:41:51,891 - Fieldez -INFO - Entered the username
+2019-01-27 20:41:51,961 - Fieldez -INFO - Entered the password
+2019-01-27 20:41:52,995 - Fieldez -INFO - Logging into application
+2019-01-27 20:42:08,845 - Fieldez -INFO - URL is launched
+2019-01-27 20:42:08,966 - Fieldez -INFO - Entered the username
+2019-01-27 20:42:09,040 - Fieldez -INFO - Entered the password
+2019-01-27 20:42:23,691 - Fieldez -INFO - Logging into application
+2019-01-27 20:48:58,294 - Fieldez -INFO - URL is launched
+2019-01-27 20:48:58,478 - Fieldez -INFO - Entered the username
+2019-01-27 20:48:58,548 - Fieldez -INFO - Entered the password
+2019-01-27 20:49:03,579 - Fieldez -INFO - Logging into application
+2019-01-27 20:49:25,201 - Fieldez -INFO - URL is launched
+2019-01-27 20:49:25,351 - Fieldez -INFO - Entered the username
+2019-01-27 20:49:25,454 - Fieldez -INFO - Entered the password
+2019-01-27 20:49:44,068 - Fieldez -INFO - Logging into application
+2019-01-27 20:59:06,416 - Fieldez -INFO - URL is launched
+2019-01-27 20:59:06,612 - Fieldez -INFO - Entered the username
+2019-01-27 20:59:06,671 - Fieldez -INFO - Entered the password
+2019-01-27 20:59:08,976 - Fieldez -INFO - Logging into application
+2019-01-27 20:59:33,460 - Fieldez -INFO - URL is launched
+2019-01-27 20:59:33,594 - Fieldez -INFO - Entered the username
+2019-01-27 20:59:33,696 - Fieldez -INFO - Entered the password
+2019-01-27 20:59:53,590 - Fieldez -INFO - Logging into application
+2019-01-27 21:00:58,944 - Fieldez -INFO - URL is launched
+2019-01-27 21:00:59,115 - Fieldez -INFO - Entered the username
+2019-01-27 21:00:59,173 - Fieldez -INFO - Entered the password
+2019-01-27 21:01:10,702 - Fieldez -INFO - Logging into application
+2019-01-27 21:01:37,815 - Fieldez -INFO - URL is launched
+2019-01-27 21:01:37,989 - Fieldez -INFO - Entered the username
+2019-01-27 21:01:38,095 - Fieldez -INFO - Entered the password
+2019-01-27 21:01:45,503 - Fieldez -INFO - Logging into application
+2019-01-27 21:05:12,172 - Fieldez -INFO - URL is launched
+2019-01-27 21:05:12,417 - Fieldez -INFO - Entered the username
+2019-01-27 21:05:12,511 - Fieldez -INFO - Entered the password
+2019-01-27 21:05:17,324 - Fieldez -INFO - Logging into application
+2019-01-27 21:05:41,361 - Fieldez -INFO - URL is launched
+2019-01-27 21:05:41,572 - Fieldez -INFO - Entered the username
+2019-01-27 21:05:41,719 - Fieldez -INFO - Entered the password
+2019-01-27 21:05:44,151 - Fieldez -INFO - Logging into application
+2019-01-27 21:06:12,783 - Fieldez -INFO - URL is launched
+2019-01-27 21:06:12,975 - Fieldez -INFO - Entered the username
+2019-01-27 21:06:13,090 - Fieldez -INFO - Entered the password
+2019-01-27 21:06:38,385 - Fieldez -INFO - Logging into application
+2019-01-27 21:07:47,204 - Fieldez -INFO - URL is launched
+2019-01-27 21:07:47,380 - Fieldez -INFO - Entered the username
+2019-01-27 21:07:47,458 - Fieldez -INFO - Entered the password
+2019-01-27 21:07:48,558 - Fieldez -INFO - Logging into application
+2019-01-27 21:09:22,007 - Fieldez -INFO - URL is launched
+2019-01-27 21:09:22,168 - Fieldez -INFO - Entered the username
+2019-01-27 21:09:22,228 - Fieldez -INFO - Entered the password
+2019-01-27 21:09:23,302 - Fieldez -INFO - Logging into application
+2019-01-27 21:17:24,489 - Fieldez -INFO - URL is launched
+2019-01-27 21:17:24,705 - Fieldez -INFO - Entered the username
+2019-01-27 21:17:24,798 - Fieldez -INFO - Entered the password
+2019-01-27 21:17:25,861 - Fieldez -INFO - Logging into application
+2019-01-27 21:18:14,321 - Fieldez -INFO - URL is launched
+2019-01-27 21:18:14,467 - Fieldez -INFO - Entered the username
+2019-01-27 21:18:14,567 - Fieldez -INFO - Entered the password
+2019-01-27 21:18:38,983 - Fieldez -INFO - Logging into application
+2019-01-27 21:19:12,912 - Fieldez -INFO - URL is launched
+2019-01-27 21:19:13,046 - Fieldez -INFO - Entered the username
+2019-01-27 21:19:13,131 - Fieldez -INFO - Entered the password
+2019-01-27 21:19:29,033 - Fieldez -INFO - Logging into application
+2019-01-27 21:21:31,962 - Fieldez -INFO - URL is launched
+2019-01-27 21:21:32,149 - Fieldez -INFO - Entered the username
+2019-01-27 21:21:32,238 - Fieldez -INFO - Entered the password
+2019-01-27 21:21:33,375 - Fieldez -INFO - Logging into application
+2019-01-27 21:21:53,887 - Fieldez -INFO - URL is launched
+2019-01-27 21:21:54,027 - Fieldez -INFO - Entered the username
+2019-01-27 21:21:54,112 - Fieldez -INFO - Entered the password
+2019-01-27 21:22:16,472 - Fieldez -INFO - Logging into application
+2019-01-27 21:22:41,696 - Fieldez -INFO - URL is launched
+2019-01-27 21:22:41,830 - Fieldez -INFO - Entered the username
+2019-01-27 21:22:41,890 - Fieldez -INFO - Entered the password
+2019-01-27 21:23:00,108 - Fieldez -INFO - Logging into application
+2019-01-28 00:11:28,920 - Fieldez -INFO - URL is launched
+2019-01-28 00:11:29,104 - Fieldez -INFO - Entered the username
+2019-01-28 00:11:29,162 - Fieldez -INFO - Entered the password
+2019-01-28 00:11:30,179 - Fieldez -INFO - Logging into application
+2019-01-28 00:11:50,385 - Fieldez -INFO - URL is launched
+2019-01-28 00:11:50,524 - Fieldez -INFO - Entered the username
+2019-01-28 00:11:50,595 - Fieldez -INFO - Entered the password
+2019-01-28 00:12:01,960 - Fieldez -INFO - Logging into application
+2019-01-28 00:12:22,632 - Fieldez -INFO - URL is launched
+2019-01-28 00:12:22,773 - Fieldez -INFO - Entered the username
+2019-01-28 00:12:22,872 - Fieldez -INFO - Entered the password
+2019-01-28 00:12:29,269 - Fieldez -INFO - Logging into application
+2019-01-28 00:56:14,319 - Fieldez -INFO - URL is launched
+2019-01-28 00:56:14,521 - Fieldez -INFO - Entered the username
+2019-01-28 00:56:14,607 - Fieldez -INFO - Entered the password
+2019-01-28 00:56:15,508 - Fieldez -INFO - Logging into application
+2019-01-28 00:56:35,686 - Fieldez -INFO - URL is launched
+2019-01-28 00:56:35,836 - Fieldez -INFO - Entered the username
+2019-01-28 00:56:35,912 - Fieldez -INFO - Entered the password
+2019-01-28 00:56:39,668 - Fieldez -INFO - Logging into application
+2019-01-28 01:01:29,643 - Fieldez -INFO - URL is launched
+2019-01-28 01:01:29,812 - Fieldez -INFO - Entered the username
+2019-01-28 01:01:29,859 - Fieldez -INFO - Entered the password
+2019-01-28 01:01:30,815 - Fieldez -INFO - Logging into application
+2019-01-28 01:01:51,779 - Fieldez -INFO - URL is launched
+2019-01-28 01:01:51,917 - Fieldez -INFO - Entered the username
+2019-01-28 01:01:52,001 - Fieldez -INFO - Entered the password
+2019-01-28 01:01:58,196 - Fieldez -INFO - Logging into application
+2019-01-28 01:02:17,342 - Fieldez -INFO - URL is launched
+2019-01-28 01:02:17,481 - Fieldez -INFO - Entered the username
+2019-01-28 01:02:17,579 - Fieldez -INFO - Entered the password
+2019-01-28 01:02:23,480 - Fieldez -INFO - Logging into application
+2019-01-28 01:04:13,556 - Fieldez -INFO - URL is launched
+2019-01-28 01:04:13,735 - Fieldez -INFO - Entered the username
+2019-01-28 01:04:13,794 - Fieldez -INFO - Entered the password
+2019-01-28 01:04:14,686 - Fieldez -INFO - Logging into application
+2019-01-28 01:04:33,501 - Fieldez -INFO - URL is launched
+2019-01-28 01:04:33,636 - Fieldez -INFO - Entered the username
+2019-01-28 01:04:33,755 - Fieldez -INFO - Entered the password
+2019-01-28 01:04:40,569 - Fieldez -INFO - Logging into application
+2019-01-28 01:05:02,175 - Fieldez -INFO - URL is launched
+2019-01-28 01:05:02,353 - Fieldez -INFO - Entered the username
+2019-01-28 01:05:02,426 - Fieldez -INFO - Entered the password
+2019-01-28 01:05:13,562 - Fieldez -INFO - Logging into application
+2019-01-28 01:51:04,514 - Fieldez -INFO - URL is launched
+2019-01-28 01:51:04,694 - Fieldez -INFO - Entered the username
+2019-01-28 01:51:04,802 - Fieldez -INFO - Entered the password
+2019-01-28 01:51:15,526 - Fieldez -INFO - Logging into application
+2019-01-28 01:51:35,169 - Fieldez -INFO - URL is launched
+2019-01-28 01:51:35,326 - Fieldez -INFO - Entered the username
+2019-01-28 01:51:35,464 - Fieldez -INFO - Entered the password
+2019-01-28 01:51:45,064 - Fieldez -INFO - Logging into application
+2019-01-28 01:52:05,182 - Fieldez -INFO - URL is launched
+2019-01-28 01:52:05,327 - Fieldez -INFO - Entered the username
+2019-01-28 01:52:05,405 - Fieldez -INFO - Entered the password
+2019-01-28 01:52:12,361 - Fieldez -INFO - Logging into application
+2019-01-28 01:54:03,101 - Fieldez -INFO - URL is launched
+2019-01-28 01:54:03,291 - Fieldez -INFO - Entered the username
+2019-01-28 01:54:03,387 - Fieldez -INFO - Entered the password
+2019-01-28 01:54:13,509 - Fieldez -INFO - Logging into application
+2019-01-28 01:54:43,499 - Fieldez -INFO - URL is launched
+2019-01-28 01:54:43,647 - Fieldez -INFO - Entered the username
+2019-01-28 01:54:43,752 - Fieldez -INFO - Entered the password
+2019-01-28 01:54:52,121 - Fieldez -INFO - Logging into application
+2019-01-28 01:55:23,851 - Fieldez -INFO - URL is launched
+2019-01-28 01:55:23,997 - Fieldez -INFO - Entered the username
+2019-01-28 01:55:24,078 - Fieldez -INFO - Entered the password
+2019-01-28 01:55:31,856 - Fieldez -INFO - Logging into application
+2019-01-28 01:58:23,484 - Fieldez -INFO - URL is launched
+2019-01-28 01:58:23,698 - Fieldez -INFO - Entered the username
+2019-01-28 01:58:23,798 - Fieldez -INFO - Entered the password
+2019-01-28 01:58:34,550 - Fieldez -INFO - Logging into application
+2019-01-28 01:59:04,445 - Fieldez -INFO - URL is launched
+2019-01-28 01:59:04,576 - Fieldez -INFO - Entered the username
+2019-01-28 01:59:04,676 - Fieldez -INFO - Entered the password
+2019-01-28 01:59:13,044 - Fieldez -INFO - Logging into application
+2019-01-28 01:59:42,445 - Fieldez -INFO - URL is launched
+2019-01-28 01:59:42,593 - Fieldez -INFO - Entered the username
+2019-01-28 01:59:42,697 - Fieldez -INFO - Entered the password
+2019-01-28 01:59:48,441 - Fieldez -INFO - Logging into application
+2019-01-28 11:17:54,013 - Fieldez -INFO - URL is launched
+2019-01-28 11:17:54,279 - Fieldez -INFO - Entered the username
+2019-01-28 11:17:54,367 - Fieldez -INFO - Entered the password
+2019-01-28 11:18:00,921 - Fieldez -INFO - Logging into application
+2019-01-28 11:18:25,503 - Fieldez -INFO - URL is launched
+2019-01-28 11:18:25,668 - Fieldez -INFO - Entered the username
+2019-01-28 11:18:25,790 - Fieldez -INFO - Entered the password
+2019-01-28 11:18:30,449 - Fieldez -INFO - Logging into application
+2019-01-28 11:18:54,679 - Fieldez -INFO - URL is launched
+2019-01-28 11:18:54,911 - Fieldez -INFO - Entered the username
+2019-01-28 11:18:55,009 - Fieldez -INFO - Entered the password
+2019-01-28 11:18:59,748 - Fieldez -INFO - Logging into application
+2019-01-28 11:19:24,087 - Fieldez -INFO - URL is launched
+2019-01-28 11:19:24,260 - Fieldez -INFO - Entered the username
+2019-01-28 11:19:24,342 - Fieldez -INFO - Entered the password
+2019-01-28 11:19:28,961 - Fieldez -INFO - Logging into application
+2019-01-28 11:36:09,758 - Fieldez -INFO - URL is launched
+2019-01-28 11:36:09,949 - Fieldez -INFO - Entered the username
+2019-01-28 11:36:10,042 - Fieldez -INFO - Entered the password
+2019-01-28 11:36:15,769 - Fieldez -INFO - Logging into application
+2019-01-28 11:37:48,286 - Fieldez -INFO - URL is launched
+2019-01-28 11:37:48,491 - Fieldez -INFO - Entered the username
+2019-01-28 11:37:48,584 - Fieldez -INFO - Entered the password
+2019-01-28 11:37:54,252 - Fieldez -INFO - Logging into application
+2019-01-28 11:38:20,015 - Fieldez -INFO - URL is launched
+2019-01-28 11:38:20,172 - Fieldez -INFO - Entered the username
+2019-01-28 11:38:20,236 - Fieldez -INFO - Entered the password
+2019-01-28 11:38:24,534 - Fieldez -INFO - Logging into application
+2019-01-28 11:38:50,647 - Fieldez -INFO - URL is launched
+2019-01-28 11:38:50,783 - Fieldez -INFO - Entered the username
+2019-01-28 11:38:50,838 - Fieldez -INFO - Entered the password
+2019-01-28 11:38:55,269 - Fieldez -INFO - Logging into application
+2019-01-28 11:39:23,106 - Fieldez -INFO - URL is launched
+2019-01-28 11:39:23,276 - Fieldez -INFO - Entered the username
+2019-01-28 11:39:23,359 - Fieldez -INFO - Entered the password
+2019-01-28 11:39:27,888 - Fieldez -INFO - Logging into application
+2019-01-28 11:42:50,782 - Fieldez -INFO - URL is launched
+2019-01-28 11:42:50,956 - Fieldez -INFO - Entered the username
+2019-01-28 11:42:51,086 - Fieldez -INFO - Entered the password
+2019-01-28 11:42:57,659 - Fieldez -INFO - Logging into application
+2019-01-28 11:43:22,310 - Fieldez -INFO - URL is launched
+2019-01-28 11:43:22,472 - Fieldez -INFO - Entered the username
+2019-01-28 11:43:22,598 - Fieldez -INFO - Entered the password
+2019-01-28 11:43:27,458 - Fieldez -INFO - Logging into application
+2019-01-28 11:43:52,478 - Fieldez -INFO - URL is launched
+2019-01-28 11:43:52,624 - Fieldez -INFO - Entered the username
+2019-01-28 11:43:52,728 - Fieldez -INFO - Entered the password
+2019-01-28 11:43:57,330 - Fieldez -INFO - Logging into application
+2019-01-28 11:44:22,194 - Fieldez -INFO - URL is launched
+2019-01-28 11:44:22,361 - Fieldez -INFO - Entered the username
+2019-01-28 11:44:22,495 - Fieldez -INFO - Entered the password
+2019-01-28 11:44:27,317 - Fieldez -INFO - Logging into application
+2019-01-28 15:46:19,704 - Fieldez -INFO - URL is launched
+2019-01-28 15:46:20,219 - Fieldez -INFO - Entered the username
+2019-01-28 15:46:20,382 - Fieldez -INFO - Entered the password
+2019-01-28 15:46:26,099 - Fieldez -INFO - Logging into application
+2019-01-28 15:46:50,747 - Fieldez -INFO - URL is launched
+2019-01-28 15:46:50,875 - Fieldez -INFO - Entered the username
+2019-01-28 15:46:50,981 - Fieldez -INFO - Entered the password
+2019-01-28 15:46:55,549 - Fieldez -INFO - Logging into application
+2019-01-30 01:19:47,167 - Fieldez -INFO - Customer page
+2019-01-30 01:37:38,256 - Fieldez -INFO - Customer page
+2019-01-30 12:42:41,985 - Fieldez -INFO - Customer page
+2019-02-28 16:12:06,037 - Fieldez -INFO - Customer page
+2019-02-28 16:12:29,383 - Fieldez -INFO - Customer page
+2019-02-28 16:13:09,011 - Fieldez -INFO - Customer page
+2019-02-28 17:28:42,023 - Fieldez -INFO - Customer page
+2019-02-28 17:29:13,835 - Fieldez -INFO - Customer page
+2019-02-28 17:29:57,447 - Fieldez -INFO - Customer page
+2019-02-28 17:35:54,003 - Fieldez -INFO - Customer page
+2019-02-28 17:35:54,226 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:35:54,322 - Fieldez -INFO - Customer page
+2019-02-28 17:35:54,469 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:35:54,529 - Fieldez -INFO - Customer page
+2019-02-28 17:35:54,660 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:41:20,675 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:41:34,476 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 17:41:34,692 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:22:03,014 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:22:07,579 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:22:07,694 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:26:05,317 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:26:07,546 - Fieldez -INFO - Clicked on Customer Header
+2019-02-28 18:26:07,656 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:01:20,495 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:01:22,000 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:01:22,295 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:06:02,812 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:06:04,284 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:06:04,766 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:11:11,369 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:11:11,615 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:11:13,115 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:15:28,846 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:15:29,027 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:15:29,110 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:18:48,421 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:18:48,581 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:18:48,673 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:25:14,083 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:25:19,303 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:25:24,450 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 13:25:41,244 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:25:46,471 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 13:59:30,788 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:59:30,957 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 13:59:31,980 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:06:08,554 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:06:10,371 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:06:12,238 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:06:13,475 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:06:14,360 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:06:14,606 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:09:50,355 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:09:52,466 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:09:54,145 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:09:55,391 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:09:56,342 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:09:56,608 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:14:45,590 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:14:47,270 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:14:48,586 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:14:48,718 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:14:48,830 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:14:49,074 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:14:59,369 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:15:00,598 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:15:01,111 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:15:01,236 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:15:01,370 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:16:57,936 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:16:59,710 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:17:00,777 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:17:00,903 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:17:01,035 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:17:01,281 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:17:11,655 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:17:12,946 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:17:13,497 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:17:13,654 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:17:13,784 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:19:13,861 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:19:16,017 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:19:17,356 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:19:17,552 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:19:17,671 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:19:18,058 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:24:05,649 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:24:08,028 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:24:09,370 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:24:09,514 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:24:09,646 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:24:09,931 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:26:37,722 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:26:39,450 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:26:40,770 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:26:40,910 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:26:41,043 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:26:41,294 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:26:41,507 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:26:42,109 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:26:42,242 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:26:42,386 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:28:37,266 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:28:40,148 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:28:41,673 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:28:41,817 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:28:41,956 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:28:42,275 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:28:42,533 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:28:43,043 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:28:43,203 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:28:43,346 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:40:00,190 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:40:02,342 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:40:03,766 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:40:03,904 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:40:04,029 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:40:04,380 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:40:05,957 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:40:06,169 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:40:06,951 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:40:07,105 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:40:07,276 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:40:07,531 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:33,975 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:35,655 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:42:37,059 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:42:37,190 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:42:37,323 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:42:37,610 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:37,845 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:42:38,382 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:42:38,532 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:42:38,656 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:42:38,925 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:59,271 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:42:59,497 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:42:59,989 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:43:00,245 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:43:00,437 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:56:31,233 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:56:32,947 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:56:34,292 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:56:34,424 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:56:44,564 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:56:44,824 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:56:45,039 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:56:45,535 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:56:45,666 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:56:55,793 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:56:56,056 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:56:56,278 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:56:56,744 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:56:56,875 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:57:07,018 - Fieldez -INFO - Saved the customer successfully
+2019-03-04 14:57:07,251 - Fieldez -INFO - Clicked on Customer Header
+2019-03-04 14:57:07,433 - Fieldez -INFO - Click Add Customer Button
+2019-03-04 14:57:07,920 - Fieldez -INFO - Entered the customer first name
+2019-03-04 14:57:08,038 - Fieldez -INFO - Entered the customer last name
+2019-03-04 14:57:18,146 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 15:44:13,209 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 15:44:14,642 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 15:44:15,744 - Fieldez -INFO - Entered the customer first name
+2019-03-21 15:44:15,844 - Fieldez -INFO - Entered the customer last name
+2019-03-21 15:44:25,952 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 15:44:31,204 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 15:44:36,367 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 15:44:36,792 - Fieldez -INFO - Entered the customer first name
+2019-03-21 15:44:36,891 - Fieldez -INFO - Entered the customer last name
+2019-03-21 15:44:51,979 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 15:44:57,200 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 15:45:02,388 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 15:45:02,759 - Fieldez -INFO - Entered the customer first name
+2019-03-21 15:45:02,850 - Fieldez -INFO - Entered the customer last name
+2019-03-21 15:45:17,930 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 15:45:23,143 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 15:45:28,307 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 15:45:28,683 - Fieldez -INFO - Entered the customer first name
+2019-03-21 15:45:28,776 - Fieldez -INFO - Entered the customer last name
+2019-03-21 15:45:43,853 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 16:58:58,228 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 16:58:59,823 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 16:59:01,091 - Fieldez -INFO - Entered the customer first name
+2019-03-21 16:59:01,225 - Fieldez -INFO - Entered the customer last name
+2019-03-21 16:59:11,336 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 16:59:11,591 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 16:59:11,854 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 16:59:12,388 - Fieldez -INFO - Entered the customer first name
+2019-03-21 16:59:12,608 - Fieldez -INFO - Entered the customer last name
+2019-03-21 16:59:22,725 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 16:59:23,142 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 16:59:23,457 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 16:59:23,964 - Fieldez -INFO - Entered the customer first name
+2019-03-21 16:59:24,071 - Fieldez -INFO - Entered the customer last name
+2019-03-21 16:59:34,192 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 16:59:34,480 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 16:59:34,671 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 16:59:35,200 - Fieldez -INFO - Entered the customer first name
+2019-03-21 16:59:35,332 - Fieldez -INFO - Entered the customer last name
+2019-03-21 16:59:45,456 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 18:37:24,369 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 18:37:25,972 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 18:37:27,152 - Fieldez -INFO - Entered the customer first name
+2019-03-21 18:37:27,293 - Fieldez -INFO - Entered the customer last name
+2019-03-21 18:37:37,413 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 18:37:37,772 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 18:37:38,027 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 18:37:38,889 - Fieldez -INFO - Entered the customer first name
+2019-03-21 18:37:39,020 - Fieldez -INFO - Entered the customer last name
+2019-03-21 18:37:49,141 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 18:37:49,372 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 18:37:49,557 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 18:37:50,005 - Fieldez -INFO - Entered the customer first name
+2019-03-21 18:37:50,127 - Fieldez -INFO - Entered the customer last name
+2019-03-21 18:38:00,253 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 18:38:00,485 - Fieldez -INFO - Clicked on Customer Header
+2019-03-21 18:38:00,685 - Fieldez -INFO - Click Add Customer Button
+2019-03-21 18:38:01,096 - Fieldez -INFO - Entered the customer first name
+2019-03-21 18:38:01,208 - Fieldez -INFO - Entered the customer last name
+2019-03-21 18:38:11,333 - Fieldez -INFO - Saved the customer successfully
+2019-03-21 22:54:29,096 - Fieldez -INFO - Entered the call number
+2019-03-21 22:54:41,432 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:27:37,456 - Fieldez -INFO - Entered the call number
+2019-03-26 12:27:49,506 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:37:04,368 - Fieldez -INFO - Entered the call number
+2019-03-26 12:37:16,357 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:40:48,363 - Fieldez -INFO - Entered the call number
+2019-03-26 12:41:00,328 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:44:52,416 - Fieldez -INFO - Entered the call number
+2019-03-26 12:45:04,288 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:45:21,399 - Fieldez -INFO - Entered the call number
+2019-03-26 12:45:33,153 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:45:50,264 - Fieldez -INFO - Entered the call number
+2019-03-26 12:46:02,043 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:46:19,196 - Fieldez -INFO - Entered the call number
+2019-03-26 12:46:31,005 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:46:48,144 - Fieldez -INFO - Entered the call number
+2019-03-26 12:46:59,980 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:47:17,104 - Fieldez -INFO - Entered the call number
+2019-03-26 12:47:28,863 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:47:46,048 - Fieldez -INFO - Entered the call number
+2019-03-26 12:47:57,873 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:48:14,982 - Fieldez -INFO - Entered the call number
+2019-03-26 12:48:26,609 - Fieldez -INFO - Saved the call successfully
+2019-03-26 12:48:43,707 - Fieldez -INFO - Entered the call number
+2019-03-26 12:48:55,369 - Fieldez -INFO - Saved the call successfully
+2019-04-17 11:02:30,516 - Fieldez -INFO - Entered the call number
+2019-04-17 11:02:42,520 - Fieldez -INFO - Saved the call successfully
+2019-04-19 15:08:51,837 - Fieldez -INFO - Entered the call number
+2019-04-19 15:09:04,115 - Fieldez -INFO - Saved the call successfully
+2019-05-13 13:01:45,735 - Fieldez -INFO - Entered the call number
+2019-05-13 13:01:57,783 - Fieldez -INFO - Saved the call successfully
+2019-05-13 13:21:57,302 - Fieldez -INFO - Entered the call number
+2019-05-13 13:22:09,250 - Fieldez -INFO - Saved the call successfully
+2019-05-13 16:43:42,824 - Fieldez -INFO - Entered the call number
+2019-05-13 16:43:54,828 - Fieldez -INFO - Saved the call successfully
+2019-05-14 14:15:47,975 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:15:50,006 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:29:29,978 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:29:34,040 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:31:10,438 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:31:12,412 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:32:29,294 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:32:31,240 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:32:41,373 - Fieldez -INFO - Create Expense is Clicked
+2019-05-14 14:33:37,974 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 14:33:39,845 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 14:33:59,971 - Fieldez -INFO - Create Expense is Clicked
+2019-05-14 15:24:07,342 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 15:24:09,303 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 15:24:29,611 - Fieldez -INFO - Create Expense is Clicked
+2019-05-14 15:33:49,377 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 15:33:51,670 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 15:34:11,870 - Fieldez -INFO - Create Expense is Clicked
+2019-05-14 15:35:38,266 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-14 15:35:40,616 - Fieldez -INFO - Expense Link is clicked
+2019-05-14 15:36:00,873 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:11:21,513 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:11:26,013 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:11:46,151 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:11:46,196 - Fieldez -INFO - T001-Pass
+2019-05-15 18:14:17,325 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:14:23,591 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:14:43,717 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:14:43,757 - Fieldez -INFO - T001-Pass
+2019-05-15 18:14:43,866 - Fieldez -INFO - T001-Pass
+2019-05-15 18:32:13,918 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:32:18,508 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:32:38,820 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:32:38,951 - Fieldez -INFO - T001-Pass
+2019-05-15 18:32:39,080 - Fieldez -INFO - T002-Pass
+2019-05-15 18:34:08,811 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:34:12,636 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:34:32,900 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:34:32,982 - Fieldez -INFO - T001-Pass
+2019-05-15 18:34:33,186 - Fieldez -INFO - T002-Pass
+2019-05-15 18:36:00,168 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 18:36:02,080 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 18:36:22,275 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 18:36:22,345 - Fieldez -INFO - T001-Pass
+2019-05-15 18:36:22,450 - Fieldez -INFO - T002-Pass
+2019-05-15 18:36:27,709 - Fieldez -INFO - T003-Pass
+2019-05-15 19:30:03,999 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 19:30:06,940 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 19:30:27,169 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 19:30:27,278 - Fieldez -INFO - T001-Pass
+2019-05-15 19:30:32,483 - Fieldez -INFO - T002-Pass
+2019-05-15 19:32:55,525 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-15 19:32:57,729 - Fieldez -INFO - Expense Link is clicked
+2019-05-15 19:33:04,001 - Fieldez -INFO - Create Expense is Clicked
+2019-05-15 19:33:04,109 - Fieldez -INFO - T001-Pass
+2019-05-15 19:33:09,442 - Fieldez -INFO - T002-Pass
+2019-05-15 19:33:14,749 - Fieldez -INFO - T003-Pass
+2019-05-16 11:50:48,225 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 11:50:50,048 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 11:50:56,202 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 11:50:56,247 - Fieldez -INFO - T001-Pass
+2019-05-16 11:51:01,425 - Fieldez -INFO - T002-Pass
+2019-05-16 11:51:06,683 - Fieldez -INFO - T003-Pass
+2019-05-16 11:53:03,657 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 11:53:05,331 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 11:53:11,504 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 11:53:11,548 - Fieldez -INFO - T001-Pass
+2019-05-16 11:53:16,732 - Fieldez -INFO - T002-Pass
+2019-05-16 11:53:21,926 - Fieldez -INFO - T003-Pass
+2019-05-16 13:04:15,395 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 13:04:17,011 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 13:04:23,135 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 13:04:23,181 - Fieldez -INFO - T001-Pass
+2019-05-16 13:04:28,345 - Fieldez -INFO - T002-Pass
+2019-05-16 13:04:33,526 - Fieldez -INFO - T003-Pass
+2019-05-16 14:28:00,306 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 14:28:02,017 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 14:28:08,132 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 14:28:08,177 - Fieldez -INFO - T001-Pass
+2019-05-16 14:28:13,339 - Fieldez -INFO - T002-Pass
+2019-05-16 14:28:18,579 - Fieldez -INFO - T003-Pass
+2019-05-16 14:32:21,494 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 14:32:23,474 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 14:32:29,618 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 14:32:29,666 - Fieldez -INFO - T001-Pass
+2019-05-16 14:32:34,833 - Fieldez -INFO - T002-Pass
+2019-05-16 14:32:40,019 - Fieldez -INFO - T003-Pass
+2019-05-16 14:32:40,607 - Fieldez -INFO - Line item saved
+2019-05-16 15:06:53,234 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:06:55,094 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:07:01,218 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:07:01,270 - Fieldez -INFO - T001-Pass
+2019-05-16 15:07:06,446 - Fieldez -INFO - T002-Pass
+2019-05-16 15:07:11,622 - Fieldez -INFO - T003-Pass
+2019-05-16 15:07:12,159 - Fieldez -INFO - Line item saved
+2019-05-16 15:23:03,777 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:23:05,545 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:23:11,680 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:23:11,729 - Fieldez -INFO - T001-Pass
+2019-05-16 15:23:16,922 - Fieldez -INFO - T002-Pass
+2019-05-16 15:23:22,105 - Fieldez -INFO - T003-Pass
+2019-05-16 15:23:22,625 - Fieldez -INFO - Line item saved
+2019-05-16 15:26:57,010 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:26:58,662 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:27:04,764 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:27:04,809 - Fieldez -INFO - T001-Pass
+2019-05-16 15:27:09,962 - Fieldez -INFO - T002-Pass
+2019-05-16 15:27:15,114 - Fieldez -INFO - T003-Pass
+2019-05-16 15:27:15,551 - Fieldez -INFO - Line item saved
+2019-05-16 15:32:39,573 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:32:41,428 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:32:47,555 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:32:47,601 - Fieldez -INFO - T001-Pass
+2019-05-16 15:32:52,778 - Fieldez -INFO - T002-Pass
+2019-05-16 15:32:57,953 - Fieldez -INFO - T003-Pass
+2019-05-16 15:32:58,471 - Fieldez -INFO - Line item saved
+2019-05-16 15:39:03,295 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 15:39:05,126 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 15:39:11,249 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 15:39:11,302 - Fieldez -INFO - T001-Pass
+2019-05-16 15:39:16,471 - Fieldez -INFO - T002-Pass
+2019-05-16 15:39:21,680 - Fieldez -INFO - T003-Pass
+2019-05-16 15:39:22,254 - Fieldez -INFO - Line item saved
+2019-05-16 16:13:51,597 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 16:13:53,253 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 16:13:59,377 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 16:13:59,428 - Fieldez -INFO - T001-Pass
+2019-05-16 16:14:04,597 - Fieldez -INFO - T002-Pass
+2019-05-16 16:14:09,779 - Fieldez -INFO - T003-Pass
+2019-05-16 16:14:10,302 - Fieldez -INFO - Line item saved
+2019-05-16 16:14:14,408 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 16:14:17,549 - Fieldez -INFO - Selected Date
+2019-05-16 16:24:37,540 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 16:24:39,743 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 16:24:45,878 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 16:24:45,926 - Fieldez -INFO - T001-Pass
+2019-05-16 16:24:51,069 - Fieldez -INFO - T002-Pass
+2019-05-16 16:24:56,220 - Fieldez -INFO - T003-Pass
+2019-05-16 16:24:56,639 - Fieldez -INFO - Line item saved
+2019-05-16 16:25:00,714 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 16:25:03,829 - Fieldez -INFO - Selected Date
+2019-05-16 17:29:03,046 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 17:29:04,680 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 17:29:08,812 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 17:29:08,874 - Fieldez -INFO - T001-Pass
+2019-05-16 17:29:14,134 - Fieldez -INFO - T002-Pass
+2019-05-16 17:29:19,326 - Fieldez -INFO - T003-Pass
+2019-05-16 17:29:19,887 - Fieldez -INFO - Line item saved
+2019-05-16 17:29:23,987 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 17:29:27,145 - Fieldez -INFO - Selected Date
+2019-05-16 17:32:55,916 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 17:32:57,563 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 17:33:01,701 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 17:33:01,792 - Fieldez -INFO - T001-Pass
+2019-05-16 17:33:06,993 - Fieldez -INFO - T002-Pass
+2019-05-16 17:33:12,189 - Fieldez -INFO - T003-Pass
+2019-05-16 17:33:12,742 - Fieldez -INFO - Line item saved
+2019-05-16 17:33:16,848 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 17:33:20,048 - Fieldez -INFO - Selected Date
+2019-05-16 17:36:19,900 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 17:36:22,128 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 17:36:26,280 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 17:36:26,347 - Fieldez -INFO - T001-Pass
+2019-05-16 17:36:28,551 - Fieldez -INFO - T002-Pass
+2019-05-16 17:36:30,748 - Fieldez -INFO - T003-Pass
+2019-05-16 17:36:31,481 - Fieldez -INFO - Line item saved
+2019-05-16 17:36:34,601 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 17:36:37,754 - Fieldez -INFO - Selected Date
+2019-05-16 17:38:32,068 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 17:38:33,668 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 17:38:37,795 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 17:38:37,863 - Fieldez -INFO - T001-Pass
+2019-05-16 17:38:40,084 - Fieldez -INFO - T002-Pass
+2019-05-16 17:38:42,285 - Fieldez -INFO - T003-Pass
+2019-05-16 17:38:42,811 - Fieldez -INFO - Line item saved
+2019-05-16 17:38:43,914 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 17:38:47,061 - Fieldez -INFO - Selected Date
+2019-05-16 18:15:10,079 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 18:15:12,899 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 18:15:17,071 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 18:15:17,125 - Fieldez -INFO - T001-Pass
+2019-05-16 18:15:19,459 - Fieldez -INFO - T002-Pass
+2019-05-16 18:15:22,113 - Fieldez -INFO - T003-Pass
+2019-05-16 18:15:22,727 - Fieldez -INFO - Line item saved
+2019-05-16 18:15:23,873 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 18:15:27,063 - Fieldez -INFO - Selected Date
+2019-05-16 19:34:42,368 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 19:34:44,121 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 19:34:48,248 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 19:34:48,302 - Fieldez -INFO - T001-Pass
+2019-05-16 19:34:50,470 - Fieldez -INFO - T002-Pass
+2019-05-16 19:34:52,704 - Fieldez -INFO - T003-Pass
+2019-05-16 19:34:52,747 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-16 19:34:52,747 - Fieldez -INFO - TC004-----> Pass
+2019-05-16 19:34:53,131 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-16 19:34:53,327 - Fieldez -INFO - Line item saved
+2019-05-16 19:34:54,456 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 19:34:57,600 - Fieldez -INFO - Selected Date
+2019-05-16 19:36:46,238 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-16 19:36:47,982 - Fieldez -INFO - Expense Link is clicked
+2019-05-16 19:36:52,087 - Fieldez -INFO - Create Expense is Clicked
+2019-05-16 19:36:52,135 - Fieldez -INFO - T001-Pass
+2019-05-16 19:36:54,286 - Fieldez -INFO - T002-Pass
+2019-05-16 19:36:56,432 - Fieldez -INFO - T003-Pass
+2019-05-16 19:36:56,465 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-16 19:36:56,465 - Fieldez -INFO - TC004-----> Pass
+2019-05-16 19:36:56,721 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-16 19:36:56,863 - Fieldez -INFO - Line item saved
+2019-05-16 19:36:57,946 - Fieldez -INFO - Clicked on Calendar
+2019-05-16 19:37:01,059 - Fieldez -INFO - Selected Date
+2019-05-17 12:23:08,586 - Fieldez -INFO - Entered the call number
+2019-05-17 12:23:20,859 - Fieldez -INFO - Saved the call successfully
+2019-05-17 12:49:41,369 - Fieldez -INFO - Entered the call number
+2019-05-17 12:49:53,641 - Fieldez -INFO - Saved the call successfully
+2019-05-17 15:04:56,740 - Fieldez -INFO - Entered the call number
+2019-05-17 15:05:08,925 - Fieldez -INFO - Saved the call successfully
+2019-05-17 16:11:43,900 - Fieldez -INFO - Entered the call number
+2019-05-17 16:11:56,319 - Fieldez -INFO - Saved the call successfully
+2019-05-17 16:23:06,758 - Fieldez -INFO - Entered the call number
+2019-05-17 16:23:18,837 - Fieldez -INFO - Saved the call successfully
+2019-05-17 16:23:55,348 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-17 19:14:54,453 - Fieldez -INFO - Entered the call number
+2019-05-17 19:15:06,539 - Fieldez -INFO - Saved the call successfully
+2019-05-17 19:15:06,583 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-17 19:24:59,291 - Fieldez -INFO - Entered the call number
+2019-05-17 19:25:11,407 - Fieldez -INFO - Saved the call successfully
+2019-05-17 19:25:11,476 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-17 19:33:56,658 - Fieldez -INFO - Entered the call number
+2019-05-17 19:34:09,588 - Fieldez -INFO - Saved the call successfully
+2019-05-17 19:34:09,638 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-17 20:00:25,861 - Fieldez -INFO - Entered the call number
+2019-05-17 20:00:38,174 - Fieldez -INFO - Saved the call successfully
+2019-05-17 20:00:38,234 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-17 20:01:15,489 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-17 20:01:15,533 - Fieldez -INFO - T002-Pass
+2019-05-18 22:10:36,260 - Fieldez -INFO - Entered the call number
+2019-05-18 22:10:49,054 - Fieldez -INFO - Saved the call successfully
+2019-05-18 22:10:49,115 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-20 14:40:58,087 - Fieldez -INFO - Entered the call number
+2019-05-20 14:41:10,058 - Fieldez -INFO - Saved the call successfully
+2019-05-20 14:41:10,100 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-20 14:41:46,717 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-20 14:41:46,758 - Fieldez -INFO - T002-Pass
+2019-05-20 14:52:06,809 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-20 14:52:06,892 - Fieldez -INFO - T002-Pass
+2019-05-20 14:54:46,931 - Fieldez -INFO - Entered the call number
+2019-05-20 14:59:18,614 - Fieldez -INFO - Entered the call number
+2019-05-20 14:59:30,597 - Fieldez -INFO - Saved the call successfully
+2019-05-20 14:59:30,653 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-20 15:00:08,242 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-20 15:00:08,288 - Fieldez -INFO - T002-Pass
+2019-05-20 18:30:54,314 - Fieldez -INFO - Entered the username
+2019-05-20 18:30:54,568 - Fieldez -INFO - Entered the password
+2019-05-20 18:31:19,547 - Fieldez -INFO - Logging into application
+2019-05-20 18:32:16,267 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-20 18:32:16,367 - Fieldez -INFO - T002-Pass
+2019-05-20 18:37:33,013 - Fieldez -INFO - Entered the username
+2019-05-20 18:37:33,136 - Fieldez -INFO - Entered the password
+2019-05-20 18:37:50,591 - Fieldez -INFO - Logging into application
+2019-05-20 18:38:53,722 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-20 18:38:53,817 - Fieldez -INFO - T002-Pass
+2019-05-20 18:39:30,348 - Fieldez -INFO - Entered the username
+2019-05-20 18:39:30,532 - Fieldez -INFO - Entered the password
+2019-05-20 18:39:46,106 - Fieldez -INFO - Logging into application
+2019-05-20 18:45:24,292 - Fieldez -INFO - Entered the username
+2019-05-20 18:45:24,466 - Fieldez -INFO - Entered the password
+2019-05-20 18:45:38,110 - Fieldez -INFO - Logging into application
+2019-05-20 18:46:42,461 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-20 18:46:42,538 - Fieldez -INFO - T002-Pass
+2019-05-21 15:06:33,847 - Fieldez -INFO - Entered the username
+2019-05-21 15:06:33,999 - Fieldez -INFO - Entered the password
+2019-05-21 15:06:38,053 - Fieldez -INFO - Logging into application
+2019-05-21 15:07:29,035 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 15:07:29,106 - Fieldez -INFO - T002-Pass
+2019-05-21 16:36:06,868 - Fieldez -INFO - Entered the username
+2019-05-21 16:36:07,007 - Fieldez -INFO - Entered the password
+2019-05-21 16:36:14,139 - Fieldez -INFO - Logging into application
+2019-05-21 16:37:02,999 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 16:37:03,080 - Fieldez -INFO - T002-Pass
+2019-05-21 17:39:05,776 - Fieldez -INFO - Entered the username
+2019-05-21 17:39:06,048 - Fieldez -INFO - Entered the password
+2019-05-21 17:39:13,355 - Fieldez -INFO - Logging into application
+2019-05-21 17:40:03,540 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 17:40:03,609 - Fieldez -INFO - T002-Pass
+2019-05-21 17:46:04,340 - Fieldez -INFO - Entered the username
+2019-05-21 17:46:04,486 - Fieldez -INFO - Entered the password
+2019-05-21 17:46:13,216 - Fieldez -INFO - Logging into application
+2019-05-21 17:47:00,650 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 17:47:00,730 - Fieldez -INFO - T002-Pass
+2019-05-21 22:45:29,089 - Fieldez -INFO - Entered the username
+2019-05-21 22:45:29,247 - Fieldez -INFO - Entered the password
+2019-05-21 22:45:40,191 - Fieldez -INFO - Logging into application
+2019-05-21 22:46:10,381 - Fieldez -INFO - Entered the call number
+2019-05-21 22:46:10,536 - Fieldez -INFO - Entered the call number
+2019-05-21 22:46:10,723 - Fieldez -INFO - Entered the City Name
+2019-05-21 22:46:10,886 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 22:46:11,103 - Fieldez -INFO - Entered the last Name
+2019-05-21 22:46:11,500 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 22:46:11,738 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 22:49:16,821 - Fieldez -INFO - Entered the username
+2019-05-21 22:49:16,985 - Fieldez -INFO - Entered the password
+2019-05-21 22:49:23,181 - Fieldez -INFO - Logging into application
+2019-05-21 22:49:52,892 - Fieldez -INFO - Entered the call number
+2019-05-21 22:49:53,038 - Fieldez -INFO - Entered the call number
+2019-05-21 22:49:53,221 - Fieldez -INFO - Entered the City Name
+2019-05-21 22:49:53,371 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 22:49:53,522 - Fieldez -INFO - Entered the last Name
+2019-05-21 22:49:54,224 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 22:49:54,507 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 22:49:54,775 - Fieldez -INFO - Selected the Country of Customer
+2019-05-21 22:49:55,129 - Fieldez -INFO - Entered the State of Customer
+2019-05-21 22:49:55,376 - Fieldez -INFO - Entered the Id of Customer
+2019-05-21 22:49:55,731 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-21 22:49:56,033 - Fieldez -INFO - Entered The email id
+2019-05-21 22:49:56,204 - Fieldez -INFO - Entered Org Name
+2019-05-21 22:49:56,362 - Fieldez -INFO - Entered Sub Org Name
+2019-05-21 22:49:56,583 - Fieldez -INFO - Entered Customer Type
+2019-05-21 22:49:56,921 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-21 22:49:57,148 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 22:49:57,343 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 22:49:57,526 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-21 22:49:57,904 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-21 22:49:58,229 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-21 22:50:10,066 - Fieldez -INFO - Saved the call successfully
+2019-05-21 22:50:10,180 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-21 22:50:47,954 - Fieldez -INFO - Entered the username
+2019-05-21 22:50:48,077 - Fieldez -INFO - Entered the password
+2019-05-21 22:50:57,164 - Fieldez -INFO - Logging into application
+2019-05-21 22:51:27,157 - Fieldez -INFO - Entered the call number
+2019-05-21 22:51:27,296 - Fieldez -INFO - Entered the call number
+2019-05-21 22:51:27,479 - Fieldez -INFO - Entered the City Name
+2019-05-21 22:51:27,669 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 22:51:27,849 - Fieldez -INFO - Entered the last Name
+2019-05-21 22:51:28,319 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 22:51:28,579 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 22:51:28,762 - Fieldez -INFO - Selected the Country of Customer
+2019-05-21 22:51:28,990 - Fieldez -INFO - Entered the State of Customer
+2019-05-21 22:51:29,170 - Fieldez -INFO - Entered the Id of Customer
+2019-05-21 22:51:29,452 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-21 22:51:29,753 - Fieldez -INFO - Entered The email id
+2019-05-21 22:51:29,938 - Fieldez -INFO - Entered Org Name
+2019-05-21 22:51:30,100 - Fieldez -INFO - Entered Sub Org Name
+2019-05-21 22:51:30,286 - Fieldez -INFO - Entered Customer Type
+2019-05-21 22:51:30,549 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-21 22:51:30,743 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 22:51:30,948 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 22:51:31,105 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-21 22:51:31,505 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-21 22:51:31,826 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-21 22:51:43,619 - Fieldez -INFO - Saved the call successfully
+2019-05-21 22:51:43,733 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-21 22:54:11,499 - Fieldez -INFO - Entered the username
+2019-05-21 22:54:11,632 - Fieldez -INFO - Entered the password
+2019-05-21 22:54:24,277 - Fieldez -INFO - Logging into application
+2019-05-21 22:54:53,854 - Fieldez -INFO - Entered the call number
+2019-05-21 22:54:53,989 - Fieldez -INFO - Entered the call number
+2019-05-21 22:54:54,181 - Fieldez -INFO - Entered the City Name
+2019-05-21 22:54:54,325 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 22:54:54,487 - Fieldez -INFO - Entered the last Name
+2019-05-21 22:54:54,898 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 22:54:55,125 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 22:54:55,268 - Fieldez -INFO - Selected the Country of Customer
+2019-05-21 22:54:55,463 - Fieldez -INFO - Entered the State of Customer
+2019-05-21 22:54:55,620 - Fieldez -INFO - Entered the Id of Customer
+2019-05-21 22:54:55,840 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-21 22:54:56,095 - Fieldez -INFO - Entered The email id
+2019-05-21 22:54:56,236 - Fieldez -INFO - Entered Org Name
+2019-05-21 22:54:56,401 - Fieldez -INFO - Entered Sub Org Name
+2019-05-21 22:54:56,602 - Fieldez -INFO - Entered Customer Type
+2019-05-21 22:54:56,860 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-21 22:54:57,044 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 22:54:57,242 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 22:54:57,408 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-21 22:54:57,834 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-21 22:54:58,178 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-21 22:55:09,867 - Fieldez -INFO - Saved the call successfully
+2019-05-21 22:55:09,971 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-21 23:08:42,410 - Fieldez -INFO - Entered the username
+2019-05-21 23:08:42,544 - Fieldez -INFO - Entered the password
+2019-05-21 23:08:52,145 - Fieldez -INFO - Logging into application
+2019-05-21 23:09:21,081 - Fieldez -INFO - Entered the call number
+2019-05-21 23:09:21,196 - Fieldez -INFO - Entered the call number
+2019-05-21 23:09:21,415 - Fieldez -INFO - Entered the City Name
+2019-05-21 23:09:21,590 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 23:09:21,716 - Fieldez -INFO - Entered the last Name
+2019-05-21 23:09:22,060 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 23:09:22,288 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 23:09:22,466 - Fieldez -INFO - Selected the Country of Customer
+2019-05-21 23:09:22,697 - Fieldez -INFO - Entered the State of Customer
+2019-05-21 23:09:22,834 - Fieldez -INFO - Entered the Id of Customer
+2019-05-21 23:09:23,029 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-21 23:09:23,329 - Fieldez -INFO - Entered The email id
+2019-05-21 23:09:23,510 - Fieldez -INFO - Entered Org Name
+2019-05-21 23:09:23,707 - Fieldez -INFO - Entered Sub Org Name
+2019-05-21 23:09:23,863 - Fieldez -INFO - Entered Customer Type
+2019-05-21 23:09:24,115 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-21 23:09:24,262 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:09:24,464 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:09:24,595 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-21 23:09:25,035 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-21 23:09:25,317 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-21 23:09:37,217 - Fieldez -INFO - Saved the call successfully
+2019-05-21 23:09:37,262 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-21 23:10:16,545 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 23:10:16,629 - Fieldez -INFO - T002-Pass
+2019-05-21 23:11:22,441 - Fieldez -INFO - Entered the username
+2019-05-21 23:11:22,556 - Fieldez -INFO - Entered the password
+2019-05-21 23:11:32,493 - Fieldez -INFO - Logging into application
+2019-05-21 23:12:01,750 - Fieldez -INFO - Entered the call number
+2019-05-21 23:12:01,878 - Fieldez -INFO - Entered the call number
+2019-05-21 23:12:02,046 - Fieldez -INFO - Entered the City Name
+2019-05-21 23:12:02,179 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 23:12:02,321 - Fieldez -INFO - Entered the last Name
+2019-05-21 23:12:02,692 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 23:12:02,909 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 23:12:03,067 - Fieldez -INFO - Selected the Country of Customer
+2019-05-21 23:12:03,268 - Fieldez -INFO - Entered the State of Customer
+2019-05-21 23:12:03,421 - Fieldez -INFO - Entered the Id of Customer
+2019-05-21 23:12:03,633 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-21 23:12:03,900 - Fieldez -INFO - Entered The email id
+2019-05-21 23:12:04,034 - Fieldez -INFO - Entered Org Name
+2019-05-21 23:12:04,187 - Fieldez -INFO - Entered Sub Org Name
+2019-05-21 23:12:04,399 - Fieldez -INFO - Entered Customer Type
+2019-05-21 23:12:04,639 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-21 23:12:04,831 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:12:05,047 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:12:05,225 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-21 23:12:05,595 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-21 23:12:05,905 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-21 23:12:17,731 - Fieldez -INFO - Saved the call successfully
+2019-05-21 23:12:17,786 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-21 23:12:57,697 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 23:12:57,754 - Fieldez -INFO - T002-Pass
+2019-05-21 23:14:48,547 - Fieldez -INFO - Entered the username
+2019-05-21 23:14:48,685 - Fieldez -INFO - Entered the password
+2019-05-21 23:14:58,276 - Fieldez -INFO - Logging into application
+2019-05-21 23:15:27,415 - Fieldez -INFO - Entered the call number
+2019-05-21 23:15:27,546 - Fieldez -INFO - Entered the call number
+2019-05-21 23:15:27,717 - Fieldez -INFO - Entered the City Name
+2019-05-21 23:15:27,854 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 23:15:27,999 - Fieldez -INFO - Entered the last Name
+2019-05-21 23:15:28,361 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 23:15:28,567 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 23:15:28,722 - Fieldez -INFO - Selected the Country of Customer
+2019-05-21 23:15:28,921 - Fieldez -INFO - Entered the State of Customer
+2019-05-21 23:15:29,070 - Fieldez -INFO - Entered the Id of Customer
+2019-05-21 23:15:29,278 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-21 23:15:29,537 - Fieldez -INFO - Entered The email id
+2019-05-21 23:15:29,680 - Fieldez -INFO - Entered Org Name
+2019-05-21 23:15:29,845 - Fieldez -INFO - Entered Sub Org Name
+2019-05-21 23:15:30,017 - Fieldez -INFO - Entered Customer Type
+2019-05-21 23:15:30,289 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-21 23:15:30,461 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:15:30,645 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:15:30,798 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-21 23:15:31,223 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-21 23:15:31,514 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-21 23:15:43,343 - Fieldez -INFO - Saved the call successfully
+2019-05-21 23:15:43,395 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-21 23:16:23,081 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 23:16:23,130 - Fieldez -INFO - T002-Pass
+2019-05-21 23:18:25,292 - Fieldez -INFO - Entered the username
+2019-05-21 23:18:25,420 - Fieldez -INFO - Entered the password
+2019-05-21 23:18:34,213 - Fieldez -INFO - Logging into application
+2019-05-21 23:19:03,378 - Fieldez -INFO - Entered the call number
+2019-05-21 23:19:03,513 - Fieldez -INFO - Entered the call number
+2019-05-21 23:19:03,682 - Fieldez -INFO - Entered the City Name
+2019-05-21 23:19:03,821 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 23:19:03,959 - Fieldez -INFO - Entered the last Name
+2019-05-21 23:19:04,381 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 23:19:04,599 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 23:19:04,753 - Fieldez -INFO - Selected the Country of Customer
+2019-05-21 23:19:04,940 - Fieldez -INFO - Entered the State of Customer
+2019-05-21 23:19:05,102 - Fieldez -INFO - Entered the Id of Customer
+2019-05-21 23:19:05,295 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-21 23:19:05,584 - Fieldez -INFO - Entered The email id
+2019-05-21 23:19:05,731 - Fieldez -INFO - Entered Org Name
+2019-05-21 23:19:05,907 - Fieldez -INFO - Entered Sub Org Name
+2019-05-21 23:19:06,089 - Fieldez -INFO - Entered Customer Type
+2019-05-21 23:19:06,351 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-21 23:19:06,522 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:19:06,717 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:19:06,930 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-21 23:19:07,325 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-21 23:19:07,662 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-21 23:19:19,396 - Fieldez -INFO - Saved the call successfully
+2019-05-21 23:19:19,445 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-21 23:19:59,218 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 23:19:59,282 - Fieldez -INFO - T002-Pass
+2019-05-21 23:23:49,779 - Fieldez -INFO - Entered the username
+2019-05-21 23:23:49,916 - Fieldez -INFO - Entered the password
+2019-05-21 23:24:04,171 - Fieldez -INFO - Logging into application
+2019-05-21 23:24:35,959 - Fieldez -INFO - Entered the call number
+2019-05-21 23:24:36,108 - Fieldez -INFO - Entered the call number
+2019-05-21 23:24:36,327 - Fieldez -INFO - Entered the City Name
+2019-05-21 23:24:36,463 - Fieldez -INFO - Entered the Middle Name
+2019-05-21 23:24:36,601 - Fieldez -INFO - Entered the last Name
+2019-05-21 23:24:37,016 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-21 23:24:37,240 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-21 23:24:37,390 - Fieldez -INFO - Selected the Country of Customer
+2019-05-21 23:24:37,600 - Fieldez -INFO - Entered the State of Customer
+2019-05-21 23:24:37,757 - Fieldez -INFO - Entered the Id of Customer
+2019-05-21 23:24:37,951 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-21 23:24:38,191 - Fieldez -INFO - Entered The email id
+2019-05-21 23:24:38,326 - Fieldez -INFO - Entered Org Name
+2019-05-21 23:24:38,484 - Fieldez -INFO - Entered Sub Org Name
+2019-05-21 23:24:38,651 - Fieldez -INFO - Entered Customer Type
+2019-05-21 23:24:38,876 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-21 23:24:39,052 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:24:39,247 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-21 23:24:39,405 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-21 23:24:39,789 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-21 23:24:40,083 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-21 23:24:52,220 - Fieldez -INFO - Saved the call successfully
+2019-05-21 23:24:52,266 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-21 23:25:32,824 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-21 23:25:32,879 - Fieldez -INFO - T002-Pass
+2019-05-22 13:18:16,577 - Fieldez -INFO - Entered the username
+2019-05-22 13:18:17,283 - Fieldez -INFO - Entered the password
+2019-05-22 13:18:29,517 - Fieldez -INFO - Logging into application
+2019-05-22 13:18:58,938 - Fieldez -INFO - Entered the call number
+2019-05-22 13:18:59,056 - Fieldez -INFO - Entered the call number
+2019-05-22 13:18:59,205 - Fieldez -INFO - Entered the City Name
+2019-05-22 13:18:59,326 - Fieldez -INFO - Entered the Middle Name
+2019-05-22 13:18:59,462 - Fieldez -INFO - Entered the last Name
+2019-05-22 13:18:59,846 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-22 13:19:00,083 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-22 13:19:00,303 - Fieldez -INFO - Selected the Country of Customer
+2019-05-22 13:19:00,496 - Fieldez -INFO - Entered the State of Customer
+2019-05-22 13:19:00,648 - Fieldez -INFO - Entered the Id of Customer
+2019-05-22 13:19:00,838 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-22 13:19:01,317 - Fieldez -INFO - Entered The email id
+2019-05-22 13:19:01,451 - Fieldez -INFO - Entered Org Name
+2019-05-22 13:19:01,618 - Fieldez -INFO - Entered Sub Org Name
+2019-05-22 13:19:01,820 - Fieldez -INFO - Entered Customer Type
+2019-05-22 13:19:02,037 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-22 13:19:02,230 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 13:19:02,404 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 13:19:02,544 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-22 13:19:02,976 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-22 13:19:03,270 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-22 13:19:15,089 - Fieldez -INFO - Saved the call successfully
+2019-05-22 13:19:15,133 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-22 17:17:07,835 - Fieldez -INFO - Entered the username
+2019-05-22 17:17:08,187 - Fieldez -INFO - Entered the password
+2019-05-22 17:17:53,848 - Fieldez -INFO - Logging into application
+2019-05-22 17:18:29,228 - Fieldez -INFO - Entered the call number
+2019-05-22 17:18:29,544 - Fieldez -INFO - Entered the call number
+2019-05-22 17:18:29,765 - Fieldez -INFO - Entered the City Name
+2019-05-22 17:18:29,933 - Fieldez -INFO - Entered the Middle Name
+2019-05-22 17:18:30,145 - Fieldez -INFO - Entered the last Name
+2019-05-22 17:18:30,636 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-22 17:18:30,913 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-22 17:18:31,188 - Fieldez -INFO - Selected the Country of Customer
+2019-05-22 17:18:31,440 - Fieldez -INFO - Entered the State of Customer
+2019-05-22 17:18:31,655 - Fieldez -INFO - Entered the Id of Customer
+2019-05-22 17:18:31,864 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-22 17:18:32,198 - Fieldez -INFO - Entered The email id
+2019-05-22 17:18:32,486 - Fieldez -INFO - Entered Org Name
+2019-05-22 17:18:32,727 - Fieldez -INFO - Entered Sub Org Name
+2019-05-22 17:18:32,967 - Fieldez -INFO - Entered Customer Type
+2019-05-22 17:18:33,349 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-22 17:18:33,613 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 17:18:33,836 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 17:18:34,044 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-22 17:18:34,445 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-22 17:18:34,809 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-22 17:18:50,828 - Fieldez -INFO - Saved the call successfully
+2019-05-22 17:18:50,880 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-22 17:22:23,146 - Fieldez -INFO - Entered the username
+2019-05-22 17:22:23,400 - Fieldez -INFO - Entered the password
+2019-05-22 17:22:48,703 - Fieldez -INFO - Logging into application
+2019-05-22 17:23:43,678 - Fieldez -INFO - Entered the call number
+2019-05-22 17:23:43,867 - Fieldez -INFO - Entered the call number
+2019-05-22 17:23:44,034 - Fieldez -INFO - Entered the City Name
+2019-05-22 17:23:44,212 - Fieldez -INFO - Entered the Middle Name
+2019-05-22 17:23:44,384 - Fieldez -INFO - Entered the last Name
+2019-05-22 17:23:44,823 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-22 17:23:45,063 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-22 17:23:45,289 - Fieldez -INFO - Selected the Country of Customer
+2019-05-22 17:23:45,487 - Fieldez -INFO - Entered the State of Customer
+2019-05-22 17:23:45,661 - Fieldez -INFO - Entered the Id of Customer
+2019-05-22 17:23:45,874 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-22 17:23:46,144 - Fieldez -INFO - Entered The email id
+2019-05-22 17:23:46,298 - Fieldez -INFO - Entered Org Name
+2019-05-22 17:23:46,524 - Fieldez -INFO - Entered Sub Org Name
+2019-05-22 17:23:46,733 - Fieldez -INFO - Entered Customer Type
+2019-05-22 17:23:47,025 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-22 17:23:47,208 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 17:23:47,448 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 17:23:47,644 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-22 17:23:48,048 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-22 17:23:48,388 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-22 17:24:01,438 - Fieldez -INFO - Saved the call successfully
+2019-05-22 17:24:12,896 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-22 18:14:45,933 - Fieldez -INFO - Entered the username
+2019-05-22 18:14:46,121 - Fieldez -INFO - Entered the password
+2019-05-22 18:14:57,941 - Fieldez -INFO - Logging into application
+2019-05-22 18:15:28,987 - Fieldez -INFO - Entered the call number
+2019-05-22 18:15:29,120 - Fieldez -INFO - Entered the call number
+2019-05-22 18:15:29,282 - Fieldez -INFO - Entered the City Name
+2019-05-22 18:15:29,438 - Fieldez -INFO - Entered the Middle Name
+2019-05-22 18:15:29,561 - Fieldez -INFO - Entered the last Name
+2019-05-22 18:15:29,938 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-22 18:15:30,141 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-22 18:15:30,327 - Fieldez -INFO - Selected the Country of Customer
+2019-05-22 18:15:30,498 - Fieldez -INFO - Entered the State of Customer
+2019-05-22 18:15:30,640 - Fieldez -INFO - Entered the Id of Customer
+2019-05-22 18:15:30,847 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-22 18:15:31,330 - Fieldez -INFO - Entered The email id
+2019-05-22 18:15:31,493 - Fieldez -INFO - Entered Org Name
+2019-05-22 18:15:31,707 - Fieldez -INFO - Entered Sub Org Name
+2019-05-22 18:15:31,895 - Fieldez -INFO - Entered Customer Type
+2019-05-22 18:15:32,168 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-22 18:15:32,330 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 18:15:32,667 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 18:15:32,850 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-22 18:15:33,389 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-22 18:15:33,731 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-22 18:15:45,488 - Fieldez -INFO - Saved the call successfully
+2019-05-22 18:15:46,113 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-22 18:33:10,578 - Fieldez -INFO - Entered the username
+2019-05-22 18:33:10,719 - Fieldez -INFO - Entered the password
+2019-05-22 18:33:30,917 - Fieldez -INFO - Logging into application
+2019-05-22 18:34:02,858 - Fieldez -INFO - Entered the call number
+2019-05-22 18:34:02,998 - Fieldez -INFO - Entered the call number
+2019-05-22 18:34:03,244 - Fieldez -INFO - Entered the City Name
+2019-05-22 18:34:03,404 - Fieldez -INFO - Entered the Middle Name
+2019-05-22 18:34:03,560 - Fieldez -INFO - Entered the last Name
+2019-05-22 18:34:04,106 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-22 18:34:04,502 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-22 18:34:04,913 - Fieldez -INFO - Selected the Country of Customer
+2019-05-22 18:34:05,182 - Fieldez -INFO - Entered the State of Customer
+2019-05-22 18:34:05,357 - Fieldez -INFO - Entered the Id of Customer
+2019-05-22 18:34:05,575 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-22 18:34:05,874 - Fieldez -INFO - Entered The email id
+2019-05-22 18:34:06,039 - Fieldez -INFO - Entered Org Name
+2019-05-22 18:34:06,229 - Fieldez -INFO - Entered Sub Org Name
+2019-05-22 18:34:06,417 - Fieldez -INFO - Entered Customer Type
+2019-05-22 18:34:06,858 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-22 18:34:07,157 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 18:34:07,473 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-22 18:34:07,728 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-22 18:34:08,582 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-22 18:34:08,929 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-22 18:34:20,968 - Fieldez -INFO - Saved the call successfully
+2019-05-22 18:34:21,937 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-23 16:05:31,294 - Fieldez -INFO - Entered the username
+2019-05-23 16:05:31,434 - Fieldez -INFO - Entered the password
+2019-05-23 16:05:41,000 - Fieldez -INFO - Logging into application
+2019-05-23 16:06:09,971 - Fieldez -INFO - Entered the call number
+2019-05-23 16:06:10,076 - Fieldez -INFO - Entered the call number
+2019-05-23 16:06:10,218 - Fieldez -INFO - Entered the City Name
+2019-05-23 16:06:10,344 - Fieldez -INFO - Entered the Middle Name
+2019-05-23 16:06:10,463 - Fieldez -INFO - Entered the last Name
+2019-05-23 16:06:10,806 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-23 16:06:10,977 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-23 16:06:11,122 - Fieldez -INFO - Selected the Country of Customer
+2019-05-23 16:06:11,301 - Fieldez -INFO - Entered the State of Customer
+2019-05-23 16:06:11,430 - Fieldez -INFO - Entered the Id of Customer
+2019-05-23 16:06:11,615 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-23 16:06:11,827 - Fieldez -INFO - Entered The email id
+2019-05-23 16:06:11,942 - Fieldez -INFO - Entered Org Name
+2019-05-23 16:06:12,081 - Fieldez -INFO - Entered Sub Org Name
+2019-05-23 16:06:12,240 - Fieldez -INFO - Entered Customer Type
+2019-05-23 16:06:12,451 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-23 16:06:12,601 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-23 16:06:12,770 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-23 16:06:12,962 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-23 16:06:13,331 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-23 16:06:13,617 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-23 16:06:25,021 - Fieldez -INFO - Saved the call successfully
+2019-05-23 16:06:25,496 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-23 16:17:09,674 - Fieldez -INFO - Entered the username
+2019-05-23 16:17:09,785 - Fieldez -INFO - Entered the password
+2019-05-23 16:17:21,239 - Fieldez -INFO - Logging into application
+2019-05-23 16:17:57,665 - Fieldez -INFO - Entered the call number
+2019-05-23 16:17:57,795 - Fieldez -INFO - Entered the call number
+2019-05-23 16:17:57,960 - Fieldez -INFO - Entered the City Name
+2019-05-23 16:17:58,101 - Fieldez -INFO - Entered the Middle Name
+2019-05-23 16:17:58,235 - Fieldez -INFO - Entered the last Name
+2019-05-23 16:17:58,629 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-23 16:17:58,836 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-23 16:17:58,965 - Fieldez -INFO - Selected the Country of Customer
+2019-05-23 16:17:59,136 - Fieldez -INFO - Entered the State of Customer
+2019-05-23 16:17:59,273 - Fieldez -INFO - Entered the Id of Customer
+2019-05-23 16:17:59,478 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-23 16:17:59,766 - Fieldez -INFO - Entered The email id
+2019-05-23 16:17:59,888 - Fieldez -INFO - Entered Org Name
+2019-05-23 16:18:00,084 - Fieldez -INFO - Entered Sub Org Name
+2019-05-23 16:18:00,339 - Fieldez -INFO - Entered Customer Type
+2019-05-23 16:18:00,567 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-23 16:18:00,750 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-23 16:18:00,937 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-23 16:18:01,100 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-23 16:18:01,518 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-23 16:18:01,841 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-23 16:18:13,474 - Fieldez -INFO - Saved the call successfully
+2019-05-23 16:18:14,655 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-25 22:44:13,901 - Fieldez -INFO - Entered the username
+2019-05-25 22:44:14,147 - Fieldez -INFO - Entered the password
+2019-05-25 22:44:20,727 - Fieldez -INFO - Logging into application
+2019-05-25 22:44:50,817 - Fieldez -INFO - Entered the call number
+2019-05-25 22:44:51,067 - Fieldez -INFO - Entered the call number
+2019-05-25 22:44:51,305 - Fieldez -INFO - Entered the City Name
+2019-05-25 22:44:51,526 - Fieldez -INFO - Entered the Middle Name
+2019-05-25 22:44:51,719 - Fieldez -INFO - Entered the last Name
+2019-05-25 22:44:52,273 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-25 22:44:52,599 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-25 22:44:52,966 - Fieldez -INFO - Selected the Country of Customer
+2019-05-25 22:44:53,202 - Fieldez -INFO - Entered the State of Customer
+2019-05-25 22:44:53,395 - Fieldez -INFO - Entered the Id of Customer
+2019-05-25 22:44:53,618 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-25 22:44:53,904 - Fieldez -INFO - Entered The email id
+2019-05-25 22:44:54,054 - Fieldez -INFO - Entered Org Name
+2019-05-25 22:44:54,233 - Fieldez -INFO - Entered Sub Org Name
+2019-05-25 22:44:54,449 - Fieldez -INFO - Entered Customer Type
+2019-05-25 22:44:54,713 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-25 22:44:54,914 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-25 22:44:55,136 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-25 22:44:55,350 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-25 22:44:55,803 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-25 22:44:56,159 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-25 22:45:07,877 - Fieldez -INFO - Saved the call successfully
+2019-05-25 22:45:08,683 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-25 23:12:39,859 - Fieldez -INFO - Entered the username
+2019-05-25 23:12:39,975 - Fieldez -INFO - Entered the password
+2019-05-25 23:12:48,790 - Fieldez -INFO - Logging into application
+2019-05-25 23:13:18,110 - Fieldez -INFO - Entered the call number
+2019-05-25 23:13:18,244 - Fieldez -INFO - Entered the call number
+2019-05-25 23:13:18,413 - Fieldez -INFO - Entered the City Name
+2019-05-25 23:13:18,548 - Fieldez -INFO - Entered the Middle Name
+2019-05-25 23:13:18,684 - Fieldez -INFO - Entered the last Name
+2019-05-25 23:13:19,052 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-25 23:13:19,263 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-25 23:13:19,407 - Fieldez -INFO - Selected the Country of Customer
+2019-05-25 23:13:19,591 - Fieldez -INFO - Entered the State of Customer
+2019-05-25 23:13:19,754 - Fieldez -INFO - Entered the Id of Customer
+2019-05-25 23:13:19,972 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-25 23:13:20,214 - Fieldez -INFO - Entered The email id
+2019-05-25 23:13:20,345 - Fieldez -INFO - Entered Org Name
+2019-05-25 23:13:20,493 - Fieldez -INFO - Entered Sub Org Name
+2019-05-25 23:13:20,659 - Fieldez -INFO - Entered Customer Type
+2019-05-25 23:13:20,916 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-25 23:13:21,083 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-25 23:13:21,268 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-25 23:13:21,454 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-25 23:13:21,823 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-25 23:13:22,145 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-25 23:13:33,661 - Fieldez -INFO - Saved the call successfully
+2019-05-25 23:13:34,059 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-25 23:31:22,538 - Fieldez -INFO - Entered the username
+2019-05-25 23:31:22,656 - Fieldez -INFO - Entered the password
+2019-05-25 23:31:31,047 - Fieldez -INFO - Logging into application
+2019-05-25 23:32:00,186 - Fieldez -INFO - Entered the call number
+2019-05-25 23:32:00,319 - Fieldez -INFO - Entered the call number
+2019-05-25 23:32:00,491 - Fieldez -INFO - Entered the City Name
+2019-05-25 23:32:00,634 - Fieldez -INFO - Entered the Middle Name
+2019-05-25 23:32:00,784 - Fieldez -INFO - Entered the last Name
+2019-05-25 23:32:01,170 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-25 23:32:01,383 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-25 23:32:01,535 - Fieldez -INFO - Selected the Country of Customer
+2019-05-25 23:32:01,713 - Fieldez -INFO - Entered the State of Customer
+2019-05-25 23:32:01,872 - Fieldez -INFO - Entered the Id of Customer
+2019-05-25 23:32:02,087 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-25 23:32:02,357 - Fieldez -INFO - Entered The email id
+2019-05-25 23:32:02,487 - Fieldez -INFO - Entered Org Name
+2019-05-25 23:32:02,641 - Fieldez -INFO - Entered Sub Org Name
+2019-05-25 23:32:02,818 - Fieldez -INFO - Entered Customer Type
+2019-05-25 23:32:03,065 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-25 23:32:03,262 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-25 23:32:03,450 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-25 23:32:03,606 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-25 23:32:04,004 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-25 23:32:04,314 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-25 23:32:16,010 - Fieldez -INFO - Saved the call successfully
+2019-05-25 23:32:16,616 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-25 23:53:25,325 - Fieldez -INFO - Entered the username
+2019-05-25 23:53:25,446 - Fieldez -INFO - Entered the password
+2019-05-25 23:53:33,614 - Fieldez -INFO - Logging into application
+2019-05-25 23:54:02,315 - Fieldez -INFO - Entered the call number
+2019-05-25 23:54:02,448 - Fieldez -INFO - Entered the call number
+2019-05-25 23:54:02,613 - Fieldez -INFO - Entered the City Name
+2019-05-25 23:54:02,750 - Fieldez -INFO - Entered the Middle Name
+2019-05-25 23:54:02,884 - Fieldez -INFO - Entered the last Name
+2019-05-25 23:54:03,276 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-25 23:54:03,486 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-25 23:54:03,638 - Fieldez -INFO - Selected the Country of Customer
+2019-05-25 23:54:03,828 - Fieldez -INFO - Entered the State of Customer
+2019-05-25 23:54:03,998 - Fieldez -INFO - Entered the Id of Customer
+2019-05-25 23:54:04,227 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-25 23:54:04,474 - Fieldez -INFO - Entered The email id
+2019-05-25 23:54:04,600 - Fieldez -INFO - Entered Org Name
+2019-05-25 23:54:04,751 - Fieldez -INFO - Entered Sub Org Name
+2019-05-25 23:54:04,922 - Fieldez -INFO - Entered Customer Type
+2019-05-25 23:54:05,157 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-25 23:54:05,329 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-25 23:54:05,544 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-25 23:54:05,710 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-25 23:54:06,096 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-25 23:54:06,439 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-25 23:54:17,892 - Fieldez -INFO - Saved the call successfully
+2019-05-25 23:54:18,339 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 10:50:24,353 - Fieldez -INFO - Entered the username
+2019-05-26 10:50:24,533 - Fieldez -INFO - Entered the password
+2019-05-26 10:50:32,763 - Fieldez -INFO - Logging into application
+2019-05-26 10:51:01,766 - Fieldez -INFO - Entered the call number
+2019-05-26 10:51:01,915 - Fieldez -INFO - Entered the call number
+2019-05-26 10:51:02,082 - Fieldez -INFO - Entered the City Name
+2019-05-26 10:51:02,260 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 10:51:02,395 - Fieldez -INFO - Entered the last Name
+2019-05-26 10:51:02,801 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 10:51:03,035 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 10:51:03,271 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 10:51:03,485 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 10:51:03,696 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 10:51:03,918 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 10:51:04,229 - Fieldez -INFO - Entered The email id
+2019-05-26 10:51:04,382 - Fieldez -INFO - Entered Org Name
+2019-05-26 10:51:04,549 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 10:51:04,722 - Fieldez -INFO - Entered Customer Type
+2019-05-26 10:51:05,016 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 10:51:05,186 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 10:51:05,377 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 10:51:05,580 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 10:51:05,958 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 10:51:06,294 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 10:51:17,826 - Fieldez -INFO - Saved the call successfully
+2019-05-26 10:51:17,892 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 10:54:37,987 - Fieldez -INFO - Entered the username
+2019-05-26 10:54:38,185 - Fieldez -INFO - Entered the password
+2019-05-26 10:54:47,496 - Fieldez -INFO - Logging into application
+2019-05-26 10:55:17,154 - Fieldez -INFO - Entered the call number
+2019-05-26 10:55:17,343 - Fieldez -INFO - Entered the call number
+2019-05-26 10:55:17,524 - Fieldez -INFO - Entered the City Name
+2019-05-26 10:55:17,659 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 10:55:17,831 - Fieldez -INFO - Entered the last Name
+2019-05-26 10:55:18,329 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 10:55:18,560 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 10:55:18,697 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 10:55:18,891 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 10:55:19,045 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 10:55:19,278 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 10:55:19,600 - Fieldez -INFO - Entered The email id
+2019-05-26 10:55:19,747 - Fieldez -INFO - Entered Org Name
+2019-05-26 10:55:19,928 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 10:55:20,124 - Fieldez -INFO - Entered Customer Type
+2019-05-26 10:55:20,409 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 10:55:20,652 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 10:55:20,872 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 10:55:21,019 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 10:55:21,450 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 10:55:21,768 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 10:55:33,339 - Fieldez -INFO - Saved the call successfully
+2019-05-26 10:55:33,388 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 10:56:59,627 - Fieldez -INFO - Entered the username
+2019-05-26 10:56:59,755 - Fieldez -INFO - Entered the password
+2019-05-26 10:57:08,984 - Fieldez -INFO - Logging into application
+2019-05-26 10:57:37,924 - Fieldez -INFO - Entered the call number
+2019-05-26 10:57:38,061 - Fieldez -INFO - Entered the call number
+2019-05-26 10:57:38,252 - Fieldez -INFO - Entered the City Name
+2019-05-26 10:57:38,408 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 10:57:38,565 - Fieldez -INFO - Entered the last Name
+2019-05-26 10:57:38,994 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 10:57:39,255 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 10:57:39,426 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 10:57:39,704 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 10:57:39,860 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 10:57:40,059 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 10:57:40,327 - Fieldez -INFO - Entered The email id
+2019-05-26 10:57:40,469 - Fieldez -INFO - Entered Org Name
+2019-05-26 10:57:40,634 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 10:57:40,819 - Fieldez -INFO - Entered Customer Type
+2019-05-26 10:57:41,094 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 10:57:41,276 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 10:57:41,470 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 10:57:41,627 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 10:57:42,089 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 10:57:42,448 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 10:57:54,064 - Fieldez -INFO - Saved the call successfully
+2019-05-26 10:57:54,113 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 11:02:19,412 - Fieldez -INFO - Entered the username
+2019-05-26 11:02:19,627 - Fieldez -INFO - Entered the password
+2019-05-26 11:02:32,407 - Fieldez -INFO - Logging into application
+2019-05-26 11:03:01,451 - Fieldez -INFO - Entered the call number
+2019-05-26 11:03:01,603 - Fieldez -INFO - Entered the call number
+2019-05-26 11:03:01,772 - Fieldez -INFO - Entered the City Name
+2019-05-26 11:03:01,961 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 11:03:02,108 - Fieldez -INFO - Entered the last Name
+2019-05-26 11:03:02,483 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 11:03:02,726 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 11:03:02,881 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 11:03:03,075 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 11:03:03,233 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 11:03:03,440 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 11:03:03,695 - Fieldez -INFO - Entered The email id
+2019-05-26 11:03:03,852 - Fieldez -INFO - Entered Org Name
+2019-05-26 11:03:04,005 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 11:03:04,192 - Fieldez -INFO - Entered Customer Type
+2019-05-26 11:03:04,464 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 11:03:04,658 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 11:03:04,855 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 11:03:05,016 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 11:03:05,395 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 11:03:05,706 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 11:03:17,214 - Fieldez -INFO - Saved the call successfully
+2019-05-26 11:03:17,258 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 11:36:04,956 - Fieldez -INFO - Entered the username
+2019-05-26 11:36:05,076 - Fieldez -INFO - Entered the password
+2019-05-26 11:36:13,696 - Fieldez -INFO - Logging into application
+2019-05-26 11:36:43,243 - Fieldez -INFO - Entered the call number
+2019-05-26 11:36:43,393 - Fieldez -INFO - Entered the call number
+2019-05-26 11:36:43,574 - Fieldez -INFO - Entered the City Name
+2019-05-26 11:36:43,727 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 11:36:43,875 - Fieldez -INFO - Entered the last Name
+2019-05-26 11:36:44,254 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 11:36:44,462 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 11:36:44,736 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 11:36:44,928 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 11:36:45,100 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 11:36:45,305 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 11:36:45,547 - Fieldez -INFO - Entered The email id
+2019-05-26 11:36:45,722 - Fieldez -INFO - Entered Org Name
+2019-05-26 11:36:45,884 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 11:36:46,050 - Fieldez -INFO - Entered Customer Type
+2019-05-26 11:36:46,292 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 11:36:46,501 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 11:36:46,728 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 11:36:46,893 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 11:36:47,287 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 11:36:47,585 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 11:36:59,081 - Fieldez -INFO - Saved the call successfully
+2019-05-26 11:36:59,772 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 17:26:41,151 - Fieldez -INFO - Entered the username
+2019-05-26 17:26:41,356 - Fieldez -INFO - Entered the password
+2019-05-26 17:26:50,442 - Fieldez -INFO - Logging into application
+2019-05-26 17:27:19,200 - Fieldez -INFO - Entered the call number
+2019-05-26 17:27:19,304 - Fieldez -INFO - Entered the call number
+2019-05-26 17:27:19,439 - Fieldez -INFO - Entered the City Name
+2019-05-26 17:27:19,554 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 17:27:19,667 - Fieldez -INFO - Entered the last Name
+2019-05-26 17:27:20,011 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 17:27:20,215 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 17:27:20,401 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 17:27:20,559 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 17:27:20,687 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 17:27:20,866 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 17:27:21,086 - Fieldez -INFO - Entered The email id
+2019-05-26 17:27:21,197 - Fieldez -INFO - Entered Org Name
+2019-05-26 17:27:21,344 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 17:27:21,483 - Fieldez -INFO - Entered Customer Type
+2019-05-26 17:27:21,681 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 17:27:21,830 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 17:27:21,989 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 17:27:22,111 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 17:27:22,491 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 17:27:22,750 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 17:27:34,140 - Fieldez -INFO - Saved the call successfully
+2019-05-26 17:27:34,689 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 17:33:13,338 - Fieldez -INFO - Entered the username
+2019-05-26 17:33:13,450 - Fieldez -INFO - Entered the password
+2019-05-26 17:33:21,511 - Fieldez -INFO - Logging into application
+2019-05-26 17:33:50,434 - Fieldez -INFO - Entered the call number
+2019-05-26 17:33:50,567 - Fieldez -INFO - Entered the call number
+2019-05-26 17:33:50,738 - Fieldez -INFO - Entered the City Name
+2019-05-26 17:33:50,874 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 17:33:51,020 - Fieldez -INFO - Entered the last Name
+2019-05-26 17:33:51,425 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 17:33:51,632 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 17:33:51,776 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 17:33:51,980 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 17:33:52,150 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 17:33:52,356 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 17:33:52,585 - Fieldez -INFO - Entered The email id
+2019-05-26 17:33:52,728 - Fieldez -INFO - Entered Org Name
+2019-05-26 17:33:52,885 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 17:33:53,040 - Fieldez -INFO - Entered Customer Type
+2019-05-26 17:33:53,257 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 17:33:53,452 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 17:33:53,649 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 17:33:53,795 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 17:33:54,250 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 17:33:54,549 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 17:34:06,020 - Fieldez -INFO - Saved the call successfully
+2019-05-26 17:34:06,417 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 17:40:52,006 - Fieldez -INFO - Entered the username
+2019-05-26 17:40:52,113 - Fieldez -INFO - Entered the password
+2019-05-26 17:41:00,037 - Fieldez -INFO - Logging into application
+2019-05-26 17:41:28,792 - Fieldez -INFO - Entered the call number
+2019-05-26 17:41:28,920 - Fieldez -INFO - Entered the call number
+2019-05-26 17:41:29,081 - Fieldez -INFO - Entered the City Name
+2019-05-26 17:41:29,227 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 17:41:29,357 - Fieldez -INFO - Entered the last Name
+2019-05-26 17:41:29,722 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 17:41:29,924 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 17:41:30,073 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 17:41:30,250 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 17:41:30,395 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 17:41:30,583 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 17:41:30,824 - Fieldez -INFO - Entered The email id
+2019-05-26 17:41:30,952 - Fieldez -INFO - Entered Org Name
+2019-05-26 17:41:31,105 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 17:41:31,266 - Fieldez -INFO - Entered Customer Type
+2019-05-26 17:41:31,492 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 17:41:31,658 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 17:41:31,858 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 17:41:32,027 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 17:41:32,406 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 17:41:32,698 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 17:41:44,193 - Fieldez -INFO - Saved the call successfully
+2019-05-26 17:41:44,566 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 17:59:13,149 - Fieldez -INFO - Entered the username
+2019-05-26 17:59:13,256 - Fieldez -INFO - Entered the password
+2019-05-26 17:59:21,522 - Fieldez -INFO - Logging into application
+2019-05-26 17:59:50,538 - Fieldez -INFO - Entered the call number
+2019-05-26 17:59:50,668 - Fieldez -INFO - Entered the call number
+2019-05-26 17:59:50,832 - Fieldez -INFO - Entered the City Name
+2019-05-26 17:59:50,970 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 17:59:51,106 - Fieldez -INFO - Entered the last Name
+2019-05-26 17:59:51,496 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 17:59:51,704 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 17:59:51,855 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 17:59:52,035 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 17:59:52,188 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 17:59:52,382 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 17:59:52,637 - Fieldez -INFO - Entered The email id
+2019-05-26 17:59:52,775 - Fieldez -INFO - Entered Org Name
+2019-05-26 17:59:52,940 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 17:59:53,114 - Fieldez -INFO - Entered Customer Type
+2019-05-26 17:59:53,353 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 17:59:53,576 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 17:59:53,762 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 17:59:53,924 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 17:59:54,343 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 17:59:54,642 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 18:00:06,142 - Fieldez -INFO - Saved the call successfully
+2019-05-26 18:00:06,190 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 19:00:18,193 - Fieldez -INFO - Entered the username
+2019-05-26 19:00:18,302 - Fieldez -INFO - Entered the password
+2019-05-26 19:00:25,507 - Fieldez -INFO - Logging into application
+2019-05-26 19:00:54,317 - Fieldez -INFO - Entered the call number
+2019-05-26 19:00:54,419 - Fieldez -INFO - Entered the call number
+2019-05-26 19:00:54,557 - Fieldez -INFO - Entered the City Name
+2019-05-26 19:00:54,668 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 19:00:54,785 - Fieldez -INFO - Entered the last Name
+2019-05-26 19:00:55,113 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 19:00:55,295 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 19:00:55,411 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 19:00:55,570 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 19:00:55,786 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 19:00:56,046 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 19:00:56,365 - Fieldez -INFO - Entered The email id
+2019-05-26 19:00:56,524 - Fieldez -INFO - Entered Org Name
+2019-05-26 19:00:56,710 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 19:00:56,931 - Fieldez -INFO - Entered Customer Type
+2019-05-26 19:00:57,227 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 19:00:57,443 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:00:57,687 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:00:57,815 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 19:00:58,179 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 19:00:58,436 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 19:01:09,894 - Fieldez -INFO - Saved the call successfully
+2019-05-26 19:01:09,939 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 19:07:06,281 - Fieldez -INFO - Entered the username
+2019-05-26 19:07:06,402 - Fieldez -INFO - Entered the password
+2019-05-26 19:07:11,831 - Fieldez -INFO - Logging into application
+2019-05-26 19:07:40,661 - Fieldez -INFO - Entered the call number
+2019-05-26 19:07:40,794 - Fieldez -INFO - Entered the call number
+2019-05-26 19:07:40,950 - Fieldez -INFO - Entered the City Name
+2019-05-26 19:07:41,081 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 19:07:41,213 - Fieldez -INFO - Entered the last Name
+2019-05-26 19:07:41,574 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 19:07:41,768 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 19:07:41,910 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 19:07:42,079 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 19:07:42,225 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 19:07:42,411 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 19:07:42,655 - Fieldez -INFO - Entered The email id
+2019-05-26 19:07:42,838 - Fieldez -INFO - Entered Org Name
+2019-05-26 19:07:43,043 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 19:07:43,270 - Fieldez -INFO - Entered Customer Type
+2019-05-26 19:07:43,608 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 19:07:43,850 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:07:44,096 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:07:44,255 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 19:07:44,643 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 19:07:44,948 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 19:07:56,466 - Fieldez -INFO - Saved the call successfully
+2019-05-26 19:07:56,512 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 19:09:13,197 - Fieldez -INFO - Entered the username
+2019-05-26 19:09:13,317 - Fieldez -INFO - Entered the password
+2019-05-26 19:09:21,646 - Fieldez -INFO - Logging into application
+2019-05-26 19:09:50,885 - Fieldez -INFO - Entered the call number
+2019-05-26 19:09:51,009 - Fieldez -INFO - Entered the call number
+2019-05-26 19:09:51,160 - Fieldez -INFO - Entered the City Name
+2019-05-26 19:09:51,289 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 19:09:51,420 - Fieldez -INFO - Entered the last Name
+2019-05-26 19:09:51,774 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 19:09:51,975 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 19:09:52,124 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 19:09:52,295 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 19:09:52,444 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 19:09:52,637 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 19:09:52,874 - Fieldez -INFO - Entered The email id
+2019-05-26 19:09:53,003 - Fieldez -INFO - Entered Org Name
+2019-05-26 19:09:53,158 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 19:09:53,312 - Fieldez -INFO - Entered Customer Type
+2019-05-26 19:09:53,596 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 19:09:53,751 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:09:53,925 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:09:54,073 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 19:09:54,477 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 19:09:54,760 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 19:10:06,244 - Fieldez -INFO - Saved the call successfully
+2019-05-26 19:10:06,288 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 19:18:26,100 - Fieldez -INFO - Entered the username
+2019-05-26 19:18:26,209 - Fieldez -INFO - Entered the password
+2019-05-26 19:18:34,109 - Fieldez -INFO - Logging into application
+2019-05-26 19:19:04,462 - Fieldez -INFO - Entered the call number
+2019-05-26 19:19:04,564 - Fieldez -INFO - Entered the call number
+2019-05-26 19:19:04,706 - Fieldez -INFO - Entered the City Name
+2019-05-26 19:19:04,813 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 19:19:04,923 - Fieldez -INFO - Entered the last Name
+2019-05-26 19:19:05,242 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 19:19:05,408 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 19:19:05,522 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 19:19:05,656 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 19:19:05,771 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 19:19:05,947 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 19:19:06,141 - Fieldez -INFO - Entered The email id
+2019-05-26 19:19:06,244 - Fieldez -INFO - Entered Org Name
+2019-05-26 19:19:06,376 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 19:19:06,509 - Fieldez -INFO - Entered Customer Type
+2019-05-26 19:19:06,698 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 19:19:06,833 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:19:06,987 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:19:07,107 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 19:19:07,438 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 19:19:07,700 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 19:19:19,625 - Fieldez -INFO - Saved the call successfully
+2019-05-26 19:19:20,118 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 19:23:41,403 - Fieldez -INFO - Entered the username
+2019-05-26 19:23:41,526 - Fieldez -INFO - Entered the password
+2019-05-26 19:23:49,634 - Fieldez -INFO - Logging into application
+2019-05-26 19:24:18,406 - Fieldez -INFO - Entered the call number
+2019-05-26 19:24:18,537 - Fieldez -INFO - Entered the call number
+2019-05-26 19:24:18,700 - Fieldez -INFO - Entered the City Name
+2019-05-26 19:24:18,837 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 19:24:18,971 - Fieldez -INFO - Entered the last Name
+2019-05-26 19:24:19,363 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 19:24:19,564 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 19:24:19,711 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 19:24:19,896 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 19:24:20,048 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 19:24:20,239 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 19:24:20,495 - Fieldez -INFO - Entered The email id
+2019-05-26 19:24:20,625 - Fieldez -INFO - Entered Org Name
+2019-05-26 19:24:20,781 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 19:24:20,950 - Fieldez -INFO - Entered Customer Type
+2019-05-26 19:24:21,234 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 19:24:21,414 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:24:21,621 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:24:21,787 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 19:24:22,176 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 19:24:22,521 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 19:24:34,616 - Fieldez -INFO - Saved the call successfully
+2019-05-26 19:24:35,109 - Fieldez -ERROR - T001-Fail- Call Not Created
+2019-05-26 19:34:59,089 - Fieldez -INFO - Entered the username
+2019-05-26 19:34:59,215 - Fieldez -INFO - Entered the password
+2019-05-26 19:35:07,159 - Fieldez -INFO - Logging into application
+2019-05-26 19:35:36,688 - Fieldez -INFO - Entered the call number
+2019-05-26 19:35:36,815 - Fieldez -INFO - Entered the call number
+2019-05-26 19:35:36,969 - Fieldez -INFO - Entered the City Name
+2019-05-26 19:35:37,101 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 19:35:37,234 - Fieldez -INFO - Entered the last Name
+2019-05-26 19:35:37,590 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 19:35:37,785 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 19:35:37,939 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 19:35:38,123 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 19:35:38,273 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 19:35:38,476 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 19:35:38,720 - Fieldez -INFO - Entered The email id
+2019-05-26 19:35:38,846 - Fieldez -INFO - Entered Org Name
+2019-05-26 19:35:38,993 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 19:35:39,154 - Fieldez -INFO - Entered Customer Type
+2019-05-26 19:35:39,406 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 19:35:39,570 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:35:39,752 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 19:35:39,913 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 19:35:40,298 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 19:35:40,605 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 19:35:52,121 - Fieldez -INFO - Saved the call successfully
+2019-05-26 19:35:52,166 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-26 20:39:23,415 - Fieldez -INFO - Entered the username
+2019-05-26 20:39:23,518 - Fieldez -INFO - Entered the password
+2019-05-26 20:39:32,524 - Fieldez -INFO - Logging into application
+2019-05-26 20:40:01,360 - Fieldez -INFO - Entered the call number
+2019-05-26 20:40:01,490 - Fieldez -INFO - Entered the call number
+2019-05-26 20:40:01,644 - Fieldez -INFO - Entered the City Name
+2019-05-26 20:40:01,778 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 20:40:01,913 - Fieldez -INFO - Entered the last Name
+2019-05-26 20:40:02,281 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 20:40:02,494 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 20:40:02,647 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 20:40:02,853 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 20:40:03,004 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 20:40:03,208 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 20:40:03,446 - Fieldez -INFO - Entered The email id
+2019-05-26 20:40:03,573 - Fieldez -INFO - Entered Org Name
+2019-05-26 20:40:03,731 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 20:40:03,908 - Fieldez -INFO - Entered Customer Type
+2019-05-26 20:40:04,134 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 20:40:04,293 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:40:04,509 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:40:04,694 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 20:40:05,092 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 20:40:05,469 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 20:40:16,971 - Fieldez -INFO - Saved the call successfully
+2019-05-26 20:40:17,014 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-26 20:48:22,025 - Fieldez -INFO - Entered the username
+2019-05-26 20:48:22,137 - Fieldez -INFO - Entered the password
+2019-05-26 20:48:30,852 - Fieldez -INFO - Logging into application
+2019-05-26 20:49:00,647 - Fieldez -INFO - Entered the call number
+2019-05-26 20:49:00,779 - Fieldez -INFO - Entered the call number
+2019-05-26 20:49:00,941 - Fieldez -INFO - Entered the City Name
+2019-05-26 20:49:01,077 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 20:49:01,205 - Fieldez -INFO - Entered the last Name
+2019-05-26 20:49:01,561 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 20:49:01,763 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 20:49:01,915 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 20:49:02,118 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 20:49:02,293 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 20:49:02,495 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 20:49:02,737 - Fieldez -INFO - Entered The email id
+2019-05-26 20:49:02,884 - Fieldez -INFO - Entered Org Name
+2019-05-26 20:49:03,032 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 20:49:03,197 - Fieldez -INFO - Entered Customer Type
+2019-05-26 20:49:03,435 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 20:49:03,614 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:49:03,797 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:49:03,949 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 20:49:04,322 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 20:49:04,609 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 20:49:16,168 - Fieldez -INFO - Saved the call successfully
+2019-05-26 20:49:16,212 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-26 20:51:07,992 - Fieldez -INFO - Entered the username
+2019-05-26 20:51:08,127 - Fieldez -INFO - Entered the password
+2019-05-26 20:51:17,034 - Fieldez -INFO - Logging into application
+2019-05-26 20:51:45,694 - Fieldez -INFO - Entered the call number
+2019-05-26 20:51:45,809 - Fieldez -INFO - Entered the call number
+2019-05-26 20:51:45,948 - Fieldez -INFO - Entered the City Name
+2019-05-26 20:51:46,061 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 20:51:46,175 - Fieldez -INFO - Entered the last Name
+2019-05-26 20:51:46,515 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 20:51:46,700 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 20:51:46,820 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 20:51:46,983 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 20:51:47,117 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 20:51:47,291 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 20:51:47,532 - Fieldez -INFO - Entered The email id
+2019-05-26 20:51:47,641 - Fieldez -INFO - Entered Org Name
+2019-05-26 20:51:47,782 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 20:51:47,923 - Fieldez -INFO - Entered Customer Type
+2019-05-26 20:51:48,132 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 20:51:48,272 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:51:48,434 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:51:48,559 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 20:51:48,940 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 20:51:49,223 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 20:52:00,655 - Fieldez -INFO - Saved the call successfully
+2019-05-26 20:52:00,702 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-26 20:52:52,058 - Fieldez -INFO - Entered the username
+2019-05-26 20:52:52,184 - Fieldez -INFO - Entered the password
+2019-05-26 20:53:00,095 - Fieldez -INFO - Logging into application
+2019-05-26 20:53:28,774 - Fieldez -INFO - Entered the call number
+2019-05-26 20:53:28,902 - Fieldez -INFO - Entered the call number
+2019-05-26 20:53:29,059 - Fieldez -INFO - Entered the City Name
+2019-05-26 20:53:29,193 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 20:53:29,326 - Fieldez -INFO - Entered the last Name
+2019-05-26 20:53:29,678 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 20:53:29,880 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 20:53:30,021 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 20:53:30,204 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 20:53:30,359 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 20:53:30,555 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 20:53:30,847 - Fieldez -INFO - Entered The email id
+2019-05-26 20:53:30,976 - Fieldez -INFO - Entered Org Name
+2019-05-26 20:53:31,126 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 20:53:31,288 - Fieldez -INFO - Entered Customer Type
+2019-05-26 20:53:31,503 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 20:53:31,666 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:53:31,848 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:53:32,023 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 20:53:32,383 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 20:53:32,695 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 20:53:44,215 - Fieldez -INFO - Saved the call successfully
+2019-05-26 20:53:44,263 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-26 20:56:03,131 - Fieldez -INFO - Entered the username
+2019-05-26 20:56:03,243 - Fieldez -INFO - Entered the password
+2019-05-26 20:56:11,853 - Fieldez -INFO - Logging into application
+2019-05-26 20:56:40,644 - Fieldez -INFO - Entered the call number
+2019-05-26 20:56:40,757 - Fieldez -INFO - Entered the call number
+2019-05-26 20:56:40,902 - Fieldez -INFO - Entered the City Name
+2019-05-26 20:56:41,020 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 20:56:41,132 - Fieldez -INFO - Entered the last Name
+2019-05-26 20:56:41,492 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 20:56:41,687 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 20:56:41,811 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 20:56:42,006 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 20:56:42,144 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 20:56:42,329 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 20:56:42,562 - Fieldez -INFO - Entered The email id
+2019-05-26 20:56:42,673 - Fieldez -INFO - Entered Org Name
+2019-05-26 20:56:42,799 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 20:56:42,940 - Fieldez -INFO - Entered Customer Type
+2019-05-26 20:56:43,174 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 20:56:43,322 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:56:43,486 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 20:56:43,627 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 20:56:44,017 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 20:56:44,292 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 20:56:55,744 - Fieldez -INFO - Saved the call successfully
+2019-05-26 20:56:55,791 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-26 21:01:51,724 - Fieldez -INFO - Entered the username
+2019-05-26 21:01:51,879 - Fieldez -INFO - Entered the password
+2019-05-26 21:02:00,150 - Fieldez -INFO - Logging into application
+2019-05-26 21:02:28,877 - Fieldez -INFO - Entered the call number
+2019-05-26 21:02:29,034 - Fieldez -INFO - Entered the call number
+2019-05-26 21:02:29,200 - Fieldez -INFO - Entered the City Name
+2019-05-26 21:02:29,334 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 21:02:29,465 - Fieldez -INFO - Entered the last Name
+2019-05-26 21:02:29,851 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 21:02:30,058 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 21:02:30,254 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 21:02:30,472 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 21:02:30,642 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 21:02:30,865 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 21:02:31,108 - Fieldez -INFO - Entered The email id
+2019-05-26 21:02:31,235 - Fieldez -INFO - Entered Org Name
+2019-05-26 21:02:31,421 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 21:02:31,591 - Fieldez -INFO - Entered Customer Type
+2019-05-26 21:02:31,813 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 21:02:31,993 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 21:02:32,210 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 21:02:32,356 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 21:02:32,749 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 21:02:33,057 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 21:02:44,554 - Fieldez -INFO - Saved the call successfully
+2019-05-26 21:02:44,604 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-26 21:59:26,983 - Fieldez -INFO - Entered the username
+2019-05-26 21:59:27,129 - Fieldez -INFO - Entered the password
+2019-05-26 21:59:39,685 - Fieldez -INFO - Logging into application
+2019-05-26 22:00:15,050 - Fieldez -INFO - Entered the call number
+2019-05-26 22:00:15,182 - Fieldez -INFO - Entered the call number
+2019-05-26 22:00:15,358 - Fieldez -INFO - Entered the City Name
+2019-05-26 22:00:15,493 - Fieldez -INFO - Entered the Middle Name
+2019-05-26 22:00:15,632 - Fieldez -INFO - Entered the last Name
+2019-05-26 22:00:16,020 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-26 22:00:16,312 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-26 22:00:16,538 - Fieldez -INFO - Selected the Country of Customer
+2019-05-26 22:00:16,737 - Fieldez -INFO - Entered the State of Customer
+2019-05-26 22:00:16,892 - Fieldez -INFO - Entered the Id of Customer
+2019-05-26 22:00:17,078 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-26 22:00:17,355 - Fieldez -INFO - Entered The email id
+2019-05-26 22:00:17,522 - Fieldez -INFO - Entered Org Name
+2019-05-26 22:00:17,682 - Fieldez -INFO - Entered Sub Org Name
+2019-05-26 22:00:17,857 - Fieldez -INFO - Entered Customer Type
+2019-05-26 22:00:18,231 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-26 22:00:18,390 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 22:00:18,618 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-26 22:00:18,767 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-26 22:00:19,256 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-26 22:00:19,606 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-26 22:00:31,412 - Fieldez -INFO - Saved the call successfully
+2019-05-26 22:00:31,457 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-28 11:52:59,117 - Fieldez -INFO - Entered the username
+2019-05-28 11:52:59,552 - Fieldez -INFO - Entered the password
+2019-05-28 11:53:10,091 - Fieldez -INFO - Logging into application
+2019-05-28 11:53:52,780 - Fieldez -INFO - Entered the call number
+2019-05-28 11:53:52,956 - Fieldez -INFO - Entered the call number
+2019-05-28 11:53:53,207 - Fieldez -INFO - Entered the City Name
+2019-05-28 11:53:53,414 - Fieldez -INFO - Entered the Middle Name
+2019-05-28 11:53:53,625 - Fieldez -INFO - Entered the last Name
+2019-05-28 11:53:54,226 - Fieldez -INFO - Entered the Address 1 of Customer
+2019-05-28 11:53:54,443 - Fieldez -INFO - Entered Address 2 of Customer
+2019-05-28 11:53:54,854 - Fieldez -INFO - Selected the Country of Customer
+2019-05-28 11:53:55,058 - Fieldez -INFO - Entered the State of Customer
+2019-05-28 11:53:55,278 - Fieldez -INFO - Entered the Id of Customer
+2019-05-28 11:53:55,554 - Fieldez -INFO - Entered the Primary No of Customer
+2019-05-28 11:53:55,805 - Fieldez -INFO - Entered The email id
+2019-05-28 11:53:55,949 - Fieldez -INFO - Entered Org Name
+2019-05-28 11:53:56,161 - Fieldez -INFO - Entered Sub Org Name
+2019-05-28 11:53:56,596 - Fieldez -INFO - Entered Customer Type
+2019-05-28 11:53:56,896 - Fieldez -INFO - Entered the Problem Description of the Call
+2019-05-28 11:53:57,289 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-28 11:53:57,585 - Fieldez -INFO - Entered the product Name of the Call
+2019-05-28 11:53:57,796 - Fieldez -INFO - Entered the Warranty Type of the Call
+2019-05-28 11:53:58,208 - Fieldez -INFO - Entered the Special Instructions of the Call
+2019-05-28 11:53:58,584 - Fieldez -INFO - Entered the Remarks of the Call
+2019-05-28 11:54:11,074 - Fieldez -INFO - Saved the call successfully
+2019-05-28 11:54:11,119 - Fieldez -INFO - T001-Pass- Call Create Successfully
+2019-05-28 11:54:52,337 - Fieldez -INFO - Call Details Page Loaded successfully
+2019-05-28 11:54:52,401 - Fieldez -INFO - T002-Pass
+2019-05-28 11:57:05,461 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 11:57:13,082 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 11:57:17,936 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 11:57:17,997 - Fieldez -INFO - T001-Pass
+2019-05-28 11:57:20,634 - Fieldez -INFO - T002-Pass
+2019-05-28 11:57:24,459 - Fieldez -INFO - T003-Pass
+2019-05-28 11:57:24,502 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 11:57:24,503 - Fieldez -INFO - TC004-----> Pass
+2019-05-28 11:57:24,926 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 11:57:25,338 - Fieldez -INFO - Line item saved
+2019-05-28 11:57:26,482 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 11:57:29,671 - Fieldez -INFO - Selected Date
+2019-05-28 12:23:59,873 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 12:24:02,280 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 12:24:06,378 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 12:24:06,646 - Fieldez -INFO - T001-Pass
+2019-05-28 12:24:09,026 - Fieldez -INFO - T002-Pass
+2019-05-28 12:24:17,582 - Fieldez -INFO - T003-Pass
+2019-05-28 12:24:17,790 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 12:24:17,791 - Fieldez -INFO - TC004-----> Pass
+2019-05-28 12:24:20,677 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 12:24:22,196 - Fieldez -INFO - Line item saved
+2019-05-28 12:24:23,509 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 12:24:26,698 - Fieldez -INFO - Selected Date
+2019-05-28 13:00:57,172 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 13:00:59,700 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 13:01:03,840 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 13:01:03,887 - Fieldez -INFO - T001-Pass
+2019-05-28 13:01:06,079 - Fieldez -INFO - T002-Pass
+2019-05-28 13:01:08,383 - Fieldez -INFO - T003-Pass
+2019-05-28 13:01:08,422 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 13:01:08,423 - Fieldez -INFO - TC004-----> Pass
+2019-05-28 13:01:08,796 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 13:01:08,971 - Fieldez -INFO - Line item saved
+2019-05-28 13:01:10,111 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 13:01:13,243 - Fieldez -INFO - Selected Date
+2019-05-28 13:40:32,466 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 13:40:34,759 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 13:40:38,860 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 13:40:38,902 - Fieldez -INFO - T001-Pass
+2019-05-28 13:40:41,084 - Fieldez -INFO - T002-Pass
+2019-05-28 13:40:43,250 - Fieldez -INFO - T003-Pass
+2019-05-28 13:40:43,280 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 13:40:43,280 - Fieldez -INFO - TC004-----> Pass
+2019-05-28 13:40:43,601 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 13:40:43,727 - Fieldez -INFO - Line item saved
+2019-05-28 13:40:44,799 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 13:40:47,901 - Fieldez -INFO - Selected Date
+2019-05-28 13:42:34,636 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 13:42:36,693 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 13:42:40,788 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 13:42:40,830 - Fieldez -INFO - T001-Pass
+2019-05-28 13:42:42,967 - Fieldez -INFO - T002-Pass
+2019-05-28 13:42:45,103 - Fieldez -INFO - T003-Pass
+2019-05-28 13:42:45,132 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 13:42:45,133 - Fieldez -INFO - TC004-----> Pass
+2019-05-28 13:42:45,386 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 13:42:45,523 - Fieldez -INFO - Line item saved
+2019-05-28 13:42:46,602 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 13:42:49,712 - Fieldez -INFO - Selected Date
+2019-05-28 13:46:25,907 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 13:46:27,788 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 13:46:31,901 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 13:46:31,954 - Fieldez -INFO - T001-Pass
+2019-05-28 13:46:34,108 - Fieldez -INFO - T002-Pass
+2019-05-28 13:46:36,281 - Fieldez -INFO - T003-Pass
+2019-05-28 13:46:36,318 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 13:46:36,319 - Fieldez -INFO - TC004-----> Pass
+2019-05-28 13:46:36,621 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 13:46:36,805 - Fieldez -INFO - Line item saved
+2019-05-28 13:46:37,901 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 13:46:41,031 - Fieldez -INFO - Selected Date
+2019-05-28 13:46:47,481 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 13:46:47,574 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 13:46:51,910 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 13:46:51,932 - Fieldez -INFO - T008-Select Calls Pass
+2019-05-28 13:46:54,039 - Fieldez -INFO - Add Line Item Page Loaded
+2019-05-28 13:46:56,209 - Fieldez -INFO - Selection of Travel is success
+2019-05-28 13:46:56,241 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 13:46:56,913 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 13:46:57,096 - Fieldez -INFO - Line item saved
+2019-05-28 13:46:58,190 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 13:47:01,315 - Fieldez -INFO - Selected Date
+2019-05-28 13:47:07,640 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 13:47:07,701 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 13:47:12,027 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 13:47:12,052 - Fieldez -INFO - T008-Select Calls Pass
+2019-05-28 13:47:14,188 - Fieldez -INFO - Add Line Item Page Loaded
+2019-05-28 13:47:16,351 - Fieldez -INFO - Selection of Travel is success
+2019-05-28 13:47:16,381 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 13:49:45,555 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 13:49:47,292 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 13:49:51,412 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 13:49:51,457 - Fieldez -INFO - T001-Pass
+2019-05-28 13:49:53,648 - Fieldez -INFO - T002-Pass
+2019-05-28 13:49:55,815 - Fieldez -INFO - T003-Pass
+2019-05-28 13:49:55,852 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 13:49:55,853 - Fieldez -INFO - TC004-----> Pass
+2019-05-28 13:49:56,145 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 13:49:56,324 - Fieldez -INFO - Line item saved
+2019-05-28 13:49:57,440 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 13:50:00,577 - Fieldez -INFO - Selected Date
+2019-05-28 13:50:07,055 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 13:50:07,175 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 13:50:11,558 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 13:50:11,581 - Fieldez -INFO - T008-Select Calls Pass
+2019-05-28 13:50:13,728 - Fieldez -INFO - Add Line Item Page Loaded
+2019-05-28 13:50:15,888 - Fieldez -INFO - Selection of Travel is success
+2019-05-28 13:50:15,921 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 13:50:16,616 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 13:50:16,761 - Fieldez -INFO - Line item saved
+2019-05-28 13:50:17,877 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 13:50:21,001 - Fieldez -INFO - Selected Date
+2019-05-28 19:05:02,208 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 19:05:04,566 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 19:05:08,683 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 19:05:08,730 - Fieldez -INFO - T001-Pass
+2019-05-28 19:05:10,899 - Fieldez -INFO - T002-Pass
+2019-05-28 19:05:13,158 - Fieldez -INFO - T003-Pass
+2019-05-28 19:05:13,195 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-28 19:05:13,196 - Fieldez -INFO - TC004-----> Pass
+2019-05-28 19:05:13,517 - Fieldez -INFO - TC - 007Save Line Item Button is enabled
+2019-05-28 19:05:13,758 - Fieldez -INFO - Line item saved
+2019-05-28 19:05:14,853 - Fieldez -INFO - Clicked on Calendar
+2019-05-28 19:05:17,988 - Fieldez -INFO - Selected Date
+2019-05-28 19:05:24,431 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 19:05:24,519 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 19:05:28,855 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 19:05:28,875 - Fieldez -INFO - T008-Select Calls Pass
+2019-05-28 19:05:31,003 - Fieldez -INFO - Add Line Item Page Loaded
+2019-05-28 19:05:33,189 - Fieldez -INFO - Selection of Travel is success
+2019-05-28 19:05:33,216 - Fieldez -INFO - TC 007 --> Save Line Item Button is disabled--> Pass
+2019-05-28 19:05:33,886 - Fieldez -INFO - Save Line Item Button is enabled
+2019-05-28 19:05:34,046 - Fieldez -INFO - Line item saved
+2019-05-28 19:05:35,255 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-28 19:05:35,434 - Fieldez -INFO - Expense Link is clicked
+2019-05-28 19:05:39,744 - Fieldez -INFO - Create Expense is Clicked
+2019-05-28 19:05:44,020 - Fieldez -INFO - TC 013 --> Cancel Button in Line Item Button is Enabled--> Pass
+2019-05-29 17:48:09,504 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-29 17:48:11,516 - Fieldez -INFO - Expense Link is clicked
+2019-05-29 17:48:14,560 - Fieldez -INFO - Create Expense is Clicked
+2019-05-29 17:48:14,622 - Fieldez -INFO - T001-Pass
+2019-05-29 17:48:16,858 - Fieldez -INFO - T002-Pass
+2019-05-29 17:48:19,255 - Fieldez -INFO - T003-Pass
+2019-05-29 17:48:19,309 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-29 17:48:19,310 - Fieldez -INFO - TC004-----> Pass
+2019-05-29 17:48:20,125 - Fieldez -INFO - TC - 007Save Line Item Button is enabled
+2019-05-29 17:48:20,500 - Fieldez -INFO - Line item saved
+2019-05-29 17:48:21,643 - Fieldez -INFO - Clicked on Calendar
+2019-05-29 17:48:24,820 - Fieldez -INFO - Selected Date
+2019-05-29 17:52:15,870 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-29 17:52:18,122 - Fieldez -INFO - Expense Link is clicked
+2019-05-29 17:52:21,279 - Fieldez -INFO - Create Expense is Clicked
+2019-05-29 17:52:21,331 - Fieldez -INFO - T001-Pass
+2019-05-29 17:52:23,528 - Fieldez -INFO - T002-Pass
+2019-05-29 17:52:25,706 - Fieldez -INFO - T003-Pass
+2019-05-29 17:52:25,747 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-29 17:52:25,747 - Fieldez -INFO - TC004-----> Pass
+2019-05-29 17:52:26,082 - Fieldez -INFO - TC - 007Save Line Item Button is enabled
+2019-05-29 17:52:26,267 - Fieldez -INFO - Line item saved
+2019-05-29 17:52:27,380 - Fieldez -INFO - Clicked on Calendar
+2019-05-29 17:52:30,515 - Fieldez -INFO - Selected Date
+2019-05-29 18:07:57,961 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-29 18:08:01,187 - Fieldez -INFO - Expense Link is clicked
+2019-05-29 18:08:02,208 - Fieldez -INFO - Create Expense is Clicked
+2019-05-29 18:09:23,441 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-29 18:09:25,406 - Fieldez -INFO - Expense Link is clicked
+2019-05-29 18:09:26,287 - Fieldez -INFO - Create Expense is Clicked
+2019-05-29 18:13:05,019 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-29 18:13:08,274 - Fieldez -INFO - Expense Link is clicked
+2019-05-29 18:13:09,310 - Fieldez -INFO - Create Expense is Clicked
+2019-05-29 18:13:09,369 - Fieldez -ERROR - T001-Fail
+2019-05-29 18:13:12,330 - Fieldez -INFO - T002-Pass
+2019-05-29 18:13:14,529 - Fieldez -INFO - T003-Pass
+2019-05-29 18:13:14,573 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-29 18:13:14,574 - Fieldez -INFO - TC004-----> Pass
+2019-05-29 18:13:14,931 - Fieldez -INFO - TC - 007Save Line Item Button is enabled
+2019-05-29 18:13:15,155 - Fieldez -INFO - Line item saved
+2019-05-29 18:13:16,272 - Fieldez -INFO - Clicked on Calendar
+2019-05-29 18:13:19,425 - Fieldez -INFO - Selected Date
+2019-05-29 18:17:46,658 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-29 18:17:50,362 - Fieldez -INFO - Expense Link is clicked
+2019-05-29 18:17:51,417 - Fieldez -INFO - Create Expense is Clicked
+2019-05-29 18:17:51,463 - Fieldez -ERROR - T001-Fail
+2019-05-29 18:21:10,661 - Fieldez -INFO - Advanced Link is Clicked
+2019-05-29 18:21:12,983 - Fieldez -INFO - Expense Link is clicked
+2019-05-29 18:21:13,742 - Fieldez -INFO - Create Expense is Clicked
+2019-05-29 18:21:13,751 - Fieldez -INFO - T001-Pass
+2019-05-29 18:21:16,591 - Fieldez -INFO - T002-Pass
+2019-05-29 18:21:18,758 - Fieldez -INFO - T003-Pass
+2019-05-29 18:21:18,791 - Fieldez -INFO - Save Line Item Button is disabled
+2019-05-29 18:21:18,791 - Fieldez -INFO - TC004-----> Pass
+2019-05-29 18:21:19,114 - Fieldez -INFO - TC - 007Save Line Item Button is enabled
+2019-05-29 18:21:19,272 - Fieldez -INFO - Line item saved
+2019-05-29 18:21:20,369 - Fieldez -INFO - Clicked on Calendar
+2019-05-29 18:21:23,500 - Fieldez -INFO - Selected Date

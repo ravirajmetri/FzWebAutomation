@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="com.fieldez.webautomation">
+  
+  
+  <listeners>
+      <listener class-name="com.fieldez.utilities.Reporting" />
+  </listeners>
+  
+   <test name="TC_Create_Expense"> 
+   
+          <!--Pass the browser value as Firefox or Chrome-->     
+         <parameter name='browser' value='Chrome'></parameter>
+         
+         <classes> 
+            <class name="com.fieldez.testcases.TC_Create_Expense"/>
+         </classes>
+
+
+</test>
+</suite>

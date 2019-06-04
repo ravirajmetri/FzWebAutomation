@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="7" total="9" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.fieldez.webautomation" duration-ms="41904" started-at="2019-05-29T12:50:48Z" finished-at="2019-05-29T12:51:30Z">
+    <groups>
+    </groups>
+    <test name="TC_Create_Expense" duration-ms="41904" started-at="2019-05-29T12:50:48Z" finished-at="2019-05-29T12:51:30Z">
+      <class name="com.fieldez.testcases.TC_Create_Expense">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="setup" is-config="true" duration-ms="11937" started-at="2019-05-29T12:50:48Z" finished-at="2019-05-29T12:51:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String)[pri:1, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="LoginTest" duration-ms="8832" started-at="2019-05-29T12:51:01Z" data-provider="DatabaseLogin" finished-at="2019-05-29T12:51:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ruchitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="CreateExpenseTest(java.lang.String)[pri:2, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="CreateExpenseTest" duration-ms="19213" started-at="2019-05-29T12:51:10Z" data-provider="ExpenseData" finished-at="2019-05-29T12:51:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rs600]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateExpenseTest -->
+        <test-method status="PASS" signature="OpenTestResults()[pri:0, instance:com.fieldez.testcases.TC_Create_Expense@5f341870]" name="OpenTestResults" is-config="true" duration-ms="805" started-at="2019-05-29T12:51:29Z" finished-at="2019-05-29T12:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenTestResults -->
+      </class> <!-- com.fieldez.testcases.TC_Create_Expense -->
+    </test> <!-- TC_Create_Expense -->
+  </suite> <!-- com.fieldez.webautomation -->
+</testng-results>
