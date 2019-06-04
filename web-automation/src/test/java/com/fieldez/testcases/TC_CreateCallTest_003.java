@@ -209,6 +209,8 @@
 			 	softAssert.assertTrue(true,"Call Created Succesfully");
 				logger.info("T001-Pass- Call Create Successfully");	
 				logger.info("T001-Pass- Call pass Successfully");
+				
+				logger.info("T001-Pass- Call pass Successfully");
 				//extent.createTest("Create Call Test Case").pass("Test Passed");
 				//extent.flush();
 				
